@@ -12936,26 +12936,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Quirky"
 		},
-		"Pokemon Trainer Samu": {
-			"ability": "Static",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 100,
-			"moves": [
-				"Thunder",
-				"Hidden Power Grass",
-				"Hidden Power Ice",
-				"Howl"
-			],
-			"nature": "Brave"
-		},
 		"Rocket Grunt 13 Silph": {
 			"ability": "Static",
 			"item": "Scope Lens",
@@ -14355,26 +14335,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aqua Jet"
 			],
 			"nature": "Hasty"
-		},
-		"Pokemon Trainer Samu": {
-			"ability": "Drizzle",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 100,
-			"moves": [
-				"Water Spout",
-				"Thunder",
-				"Blizzard",
-				"Howl"
-			],
-			"nature": "Docile"
 		}
 	},
 	"Lanturn": {
@@ -14881,26 +14841,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover"
 			],
 			"nature": "Adamant"
-		},
-		"Pokemon Trainer Samu": {
-			"ability": "Levitate",
-			"item": "Soul Dew",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 100,
-			"moves": [
-				"Draco Meteor",
-				"Psycho Boost",
-				"Flamethrower",
-				"Calm Mind"
-			],
-			"nature": "Brave"
 		},
 		"Super Nerd Aidan": {
 			"ability": "Levitate",
@@ -16982,26 +16922,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Swords Dance"
 			],
 			"nature": "Calm"
-		},
-		"Pokemon Trainer Samu": {
-			"ability": "Clear Body",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 100,
-			"moves": [
-				"Meteor Mash",
-				"Explosion",
-				"Earthquake",
-				"Dragon Dance"
-			],
-			"nature": "Docile"
 		},
 		"Psychic Dario": {
 			"ability": "Clear Body",
@@ -23468,26 +23388,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Adamant"
 		},
-		"Pokemon Trainer Samu": {
-			"ability": "Intimidate",
-			"item": "Choice Band",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 100,
-			"moves": [
-				"Aeroblast",
-				"Draco Meteor",
-				"Earthquake",
-				"Head Smash"
-			],
-			"nature": "Sassy"
-		},
 		"Rival Terry 22 Shit Turtle": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -27545,26 +27445,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect"
 			],
 			"nature": "Jolly"
-		},
-		"Pokemon Trainer Samu": {
-			"ability": "Torrent",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 100,
-			"moves": [
-				"Muddy Water",
-				"Ancientpower",
-				"Earthquake",
-				"Howl"
-			],
-			"nature": "Serious"
 		},
 		"Rocket Grunt 3 Five Island": {
 			"ability": "Torrent",

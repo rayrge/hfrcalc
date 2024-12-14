@@ -28,7 +28,6 @@ var CUSTOMHACKFLAGS_EK = {
             "Gamer Rich", 
             "Channeler Paula",
             "Burgler Rob",
-            "Pokemon Trainer Samu",
             "Super Nerd Aidan",
             "Burglar Arnie",
             "Burglar Simon",
@@ -170,7 +169,7 @@ var CUSTOMHACKFLAGS_EK = {
             "Super Nerd Glenn",
             "Twins Eli & Anne",
             "Gamer Rich",
-            "Biker Jared",
+            "Biker Jaren",
             "Biker Ricardo",
             // Route 7
             "Rocket Grunt Route 7",
@@ -214,24 +213,43 @@ var CUSTOMHACKFLAGS_EK = {
             "Rocket Grunt 2 Tower",
             "Rocket Admin Ariana",
             
-
-            // Route 12
-            "Camper Drew",
-            "Camper Beau",
-            "Picnicker Heidi",
-            "Picnicker Becky",
-            "Ruin Maniac Dusty",
+            // Route 12-15
+            "Fisherman Chip",
+            "Fisherman Hank",
+            "Fisherman Ned",
+            "Young Couple Gia & Jes",
+            "Rocker Luca",
+            "Camper Justin",
+            "Fisherman Andrew",
+            "Beauty Lola",
+            "Picnicker Susie",
+            "Bird Keeper Sebastian",
+            "Bird Keeper Perry",
+            "Biker Jared",
+            "Picnicker Valerie",
+            "Bird Keeper Marlon",
+            "Biker Isaac",
+            "Bird Keeper Donald",
+            "Biker Gerald",
+            "Camper Benny",
+            "Bird Keeper Beck",
+            "Biker Lukas",
+            "Twins Kiri & Jan",
+            "Biker Ernest",
+            "Biker Alex",
+            "Crush Kin Ron & Mya",
             "Picnicker Celia",
-            "Camper Branden",
-            // Petalburg Gym
-            "Triathlete Randall",
-            "Triathlete Mary",
-            "Pokéfan Parker",
-            "Pokéfan Alexia",
-            "Pokémon Breeder George",
-            "Cooltrainer Jody",
-            "Cooltrainer Berke",
-            "Leader Norman"
+            "Picnicker Kindra",
+            
+            // Fuschia Gym
+            "Juggler Kayden",
+            "Juggler Nate",
+            "Juggler Kirk",
+
+            "Tamer Edgar",
+            "Tamer Phil",
+            "Juggler Shawn",
+            "Leader Koga",
         ],
         "balanceBadge": [
             // Route 115
@@ -511,7 +529,8 @@ var CUSTOMHACKFLAGS_EK = {
         "tag": [
             ["Picnicker Kelsey", "Camper Flint"],
             ["Sailor Trevor", "Sailor Edmond"],
-            ["Biker Jared", "Biker Ricardo"]
+            ["Biker Jaren", "Biker Ricardo"],
+            ["Picnicker Celia", "Picnicker Kindra"]
         ]
     },
     "weather": {

@@ -181,14 +181,6 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Shuckle",
 		"Armaldo"
 	],
-	"Pokemon Trainer Samu": [
-		"Kyogre",
-		"Jolteon",
-		"Salamence",
-		"Metagross",
-		"Swampert",
-		"Latios"
-	],
 	"Cooltrainer Claire": [
 		"Altaria",
 		"Dragonite",
