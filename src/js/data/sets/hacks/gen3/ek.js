@@ -1,6 +1,6 @@
 var CUSTOMHACKSETDEX_EK = {
 	"Abra": {
-		"Rival Terry Cerulean Shit Turtle": {
+		"Rival Terry Cerulean Mid Turtle": {
 			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
@@ -84,7 +84,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Burglar Rob": {
 			"ability": "Pressure",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -104,7 +104,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Fuschia": {
 			"ability": "Pressure",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -144,7 +144,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Fisherman Wade": {
 			"ability": "Pressure",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -161,7 +161,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Admin Petrel 4": {
 			"ability": "Pressure",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -858,7 +858,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hasty"
 		},
-		"Rival Terry 22 Shit Turtle": {
+		"Rival Terry 22 Mid Turtle": {
 			"ability": "Inner Focus",
 			"item": "King'S Rock",
 			"ivs": {
@@ -918,7 +918,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Docile"
 		},
-		"Rival Terry Tower Shit Turtle": {
+		"Rival Terry Tower Mid Turtle": {
 			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
@@ -1159,7 +1159,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Claire": {
 			"ability": "Natural Cure",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -2621,7 +2621,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Beldum": {
-		"Rival Terry Cerulean Shit Turtle": {
+		"Rival Terry Cerulean Mid Turtle": {
 			"ability": "Clear Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -2785,7 +2785,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Docile"
 		},
-		"Rival Terry 22 Shit Turtle": {
+		"Rival Terry 22 Mid Turtle": {
 			"ability": "Shell Armor",
 			"item": "Salac Berry",
 			"ivs": {
@@ -2805,7 +2805,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"Rival Terry Tower Shit Turtle": {
+		"Rival Terry Tower Mid Turtle": {
 			"ability": "Shell Armor",
 			"item": "Mystic Water",
 			"ivs": {
@@ -3651,7 +3651,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Admin Ariana": {
 			"ability": "Rough Skin",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -3835,7 +3835,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Castform": {
 		"Bird Keeper Marlon": {
 			"ability": "Forecast",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4281,7 +4281,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 4 Silph": {
 			"ability": "Blaze",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4491,7 +4491,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Claydol": {
 		"Burglar Simon": {
 			"ability": "Levitate",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -5739,7 +5739,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Delibird": {
 		"Bird Keeper Beck": {
 			"ability": "Vital Spirit",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -5758,7 +5758,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Fisherman Elliot": {
 			"ability": "Vital Spirit",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6047,7 +6047,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Burglar Dash": {
 			"ability": "Early Bird",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6290,7 +6290,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt Route 7": {
 			"ability": "Shed Skin",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -7412,7 +7412,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Ekans": {
 		"Rocket Grunt 2 Mt Moon": {
 			"ability": "Intimidate",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -8784,7 +8784,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Flareon": {
 		"Burglar Dash": {
 			"ability": "Flash Fire",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10176,7 +10176,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Painter Celina": {
 			"ability": "Intimidate",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10236,7 +10236,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 2 Hideout": {
 			"ability": "Intimidate",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10276,7 +10276,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Swimmer-M Jack": {
 			"ability": "Intimidate",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10974,7 +10974,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 5 Silph": {
 			"ability": "Intimidate",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11032,7 +11032,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Swimmer-M Samir": {
 			"ability": "Intimidate",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11722,7 +11722,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 9 Silph": {
 			"ability": "Limber",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11867,7 +11867,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Houndoom": {
 		"Biker Alex": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11907,7 +11907,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Champion Terry": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11927,7 +11927,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Cinnebar": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11947,7 +11947,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Daniel": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11987,7 +11987,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Elite Four Agatha Rematch": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12007,7 +12007,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Leader Blaine": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12027,7 +12027,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Pokemon Ranger Beth": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12045,9 +12045,9 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naive"
 		},
-		"Rival Terry 22 Shit Turtle": {
+		"Rival Terry 22 Mid Turtle": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12067,7 +12067,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rival Terry 22 Venu": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12087,7 +12087,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rival Terry 22 Zard": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12105,7 +12105,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Relaxed"
 		},
-		"Rival Terry Tower Shit Turtle": {
+		"Rival Terry Tower Mid Turtle": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
 			"ivs": {
@@ -12267,7 +12267,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Tamer Evan": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12347,7 +12347,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naive"
 		},
-		"Rival Terry Boat Shit Turtle": {
+		"Rival Terry Boat Mid Turtle": {
 			"ability": "Own Tempo",
 			"item": "Lum Berry",
 			"ivs": {
@@ -12409,7 +12409,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 4 Hideout": {
 			"ability": "Own Tempo",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12531,7 +12531,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 1 Hideout": {
 			"ability": "Insomnia",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12632,7 +12632,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Picnicker Becky": {
 			"ability": "Swarm",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12736,7 +12736,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Admin Archer 3": {
 			"ability": "Serene Grace",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12978,7 +12978,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 5 Silph": {
 			"ability": "Static",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -13242,7 +13242,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Fisherman Claude": {
 			"ability": "Oblivious",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -13321,7 +13321,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 6 Hideout": {
 			"ability": "Oblivious",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -13381,7 +13381,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Young Couple Eve & Jon": {
 			"ability": "Oblivious",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -13485,7 +13485,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 14 Silph": {
 			"ability": "Battle Armor",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -13505,7 +13505,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 8 Hideout": {
 			"ability": "Battle Armor",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -13604,7 +13604,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Modest"
 		},
-		"Rival Terry Boat Shit Turtle": {
+		"Rival Terry Boat Mid Turtle": {
 			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
@@ -13890,7 +13890,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Naomi": {
 			"ability": "Swift Swim",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -14212,7 +14212,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Kingler": {
 		"Rocket Grunt 2 Silph": {
 			"ability": "Hyper Cutter",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -15088,7 +15088,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 3 Five Island": {
 			"ability": "Swift Swim",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -15394,7 +15394,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Hotshot": {
 			"ability": "Guts",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -15801,7 +15801,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Magneton": {
 		"Cooltrainer Leroy": {
 			"ability": "Magnet Pull",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -16943,7 +16943,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"Rival Terry 22 Shit Turtle": {
+		"Rival Terry 22 Mid Turtle": {
 			"ability": "Clear Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17003,7 +17003,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Quirky"
 		},
-		"Rival Terry Tower Shit Turtle": {
+		"Rival Terry Tower Mid Turtle": {
 			"ability": "Clear Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17245,7 +17245,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Quiet"
 		},
-		"Rival Terry Boat Shit Turtle": {
+		"Rival Terry Boat Mid Turtle": {
 			"ability": "Clear Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17373,7 +17373,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Mightyena": {
 		"Biker Jared": {
 			"ability": "Intimidate",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -17393,7 +17393,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Picnicker Isabelle": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -17710,7 +17710,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Impish"
 		},
-		"Rival Terry 22 Shit Turtle": {
+		"Rival Terry 22 Mid Turtle": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17770,7 +17770,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Adamant"
 		},
-		"Rival Terry Tower Shit Turtle": {
+		"Rival Terry Tower Mid Turtle": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18678,7 +18678,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Viridian": {
 			"ability": "Stench",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18718,7 +18718,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Leader Koga": {
 			"ability": "Stench",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18738,7 +18738,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 1 Ember": {
 			"ability": "Stench",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18778,7 +18778,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 11 Silph": {
 			"ability": "Stench",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18936,7 +18936,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Admin Proton 2": {
 			"ability": "Insomnia",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18956,7 +18956,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Admin Proton 3": {
 			"ability": "Insomnia",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18976,7 +18976,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Admin Proton 4": {
 			"ability": "Insomnia",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19036,7 +19036,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 5 Hideout": {
 			"ability": "Insomnia",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19056,7 +19056,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Scientist Ed": {
 			"ability": "Insomnia",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19135,7 +19135,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Juggler Kayden": {
 			"ability": "Poison Point",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19365,7 +19365,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Burglar Arnie": {
 			"ability": "Pressure",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19643,7 +19643,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Fuschia": {
 			"ability": "Speed Boost",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19663,7 +19663,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Michelle": {
 			"ability": "Speed Boost",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19905,7 +19905,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Scientist Taylor": {
 			"ability": "Insomnia",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -20338,7 +20338,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Admin Archer 4": {
 			"ability": "Limber",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -20522,7 +20522,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Quirky"
 		},
-		"Rival Terry Tower Shit Turtle": {
+		"Rival Terry Tower Mid Turtle": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20584,7 +20584,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Pidgeotto": {
-		"Rival Terry Boat Shit Turtle": {
+		"Rival Terry Boat Mid Turtle": {
 			"ability": "Keen Eye",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -20644,7 +20644,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Quiet"
 		},
-		"Rival Terry Cerulean Shit Turtle": {
+		"Rival Terry Cerulean Mid Turtle": {
 			"ability": "Keen Eye",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -20785,7 +20785,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Brave"
 		},
-		"Rival Terry Cerulean Shit Turtle": {
+		"Rival Terry Cerulean Mid Turtle": {
 			"ability": "Static",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20909,7 +20909,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Piloswine": {
 		"Gamer Pyrce": {
 			"ability": "Oblivious",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -21398,7 +21398,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 6 Silph": {
 			"ability": "Swift Swim",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -21458,7 +21458,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Swimmer-M Samir": {
 			"ability": "Swift Swim",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22090,7 +22090,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 2 Ember": {
 			"ability": "Intimidate",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22890,7 +22890,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Channeler Emilia": {
 			"ability": "Keen Eye",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22910,7 +22910,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Caroline": {
 			"ability": "Keen Eye",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22930,7 +22930,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Leroy": {
 			"ability": "Keen Eye",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -23090,7 +23090,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Juggler Yuri": {
 			"ability": "Keen Eye",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -23110,7 +23110,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Leader Giovanni": {
 			"ability": "Keen Eye",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -23130,7 +23130,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Pokemon Ranger Morty": {
 			"ability": "Keen Eye",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -23168,7 +23168,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt Icefall": {
 			"ability": "Keen Eye",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -23388,7 +23388,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Adamant"
 		},
-		"Rival Terry 22 Shit Turtle": {
+		"Rival Terry 22 Mid Turtle": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
 			"ivs": {
@@ -23673,7 +23673,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 6 Silph": {
 			"ability": "Battle Armor",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24485,7 +24485,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Fisherman Hank": {
 			"ability": "Rough Skin",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24565,7 +24565,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 1 Silph": {
 			"ability": "Rough Skin",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25017,7 +25017,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Daniel": {
 			"ability": "Keen Eye",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25037,7 +25037,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Gamer Darian": {
 			"ability": "Keen Eye",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25117,7 +25117,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 5 Hideout": {
 			"ability": "Keen Eye",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25536,7 +25536,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Painter Daisy": {
 			"ability": "Own Tempo",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25556,7 +25556,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Painter Daisy (1)": {
 			"ability": "Own Tempo",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25576,7 +25576,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Painter Daisy (2)": {
 			"ability": "Own Tempo",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25594,7 +25594,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Painter Daisy (3)": {
 			"ability": "Own Tempo",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25614,7 +25614,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Painter Daisy (4)": {
 			"ability": "Own Tempo",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25633,7 +25633,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Painter Daisy (5)": {
 			"ability": "Own Tempo",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25655,7 +25655,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Sneasel": {
 		"Biker Ernest": {
 			"ability": "Inner Focus",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25715,7 +25715,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cool Couple Ray & Tyra": {
 			"ability": "Inner Focus",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25732,7 +25732,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Crush Girl Tanya": {
 			"ability": "Inner Focus",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25752,7 +25752,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Elite Four Lorelei": {
 			"ability": "Inner Focus",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25812,7 +25812,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Admin Proton 2": {
 			"ability": "Inner Focus",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25892,7 +25892,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Youngster Johnson": {
 			"ability": "Inner Focus",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25934,7 +25934,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Biker Virgil": {
 			"ability": "Thick Fat",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -26296,7 +26296,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Stantler": {
 		"Gamer Darian": {
 			"ability": "Intimidate",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -26495,7 +26495,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Leader Misty": {
 			"ability": "Natural Cure",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -26695,7 +26695,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Swimmer-F Abigail": {
 			"ability": "Natural Cure",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -27326,7 +27326,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Burglar Lewis": {
 			"ability": "Liquid Ooze",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -27408,7 +27408,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Leader Giovanni": {
 			"ability": "Torrent",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -27448,7 +27448,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 3 Five Island": {
 			"ability": "Torrent",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -27528,7 +27528,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Tamer Evan": {
 			"ability": "Torrent",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -27787,7 +27787,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Burglar Rob": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -28092,7 +28092,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Bird Keeper Chaz": {
 			"ability": "Serene Grace",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -28498,7 +28498,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Channeler Tammy": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -28554,7 +28554,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Caroline": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -28713,7 +28713,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Juggler Yuri": {
 			"ability": "Intimidate",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -28869,7 +28869,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Biker William": {
 			"ability": "Poison Point",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -28889,7 +28889,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Burglar Simon": {
 			"ability": "Poison Point",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -28969,7 +28969,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 11 Silph": {
 			"ability": "Poison Point",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -28989,7 +28989,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 6 Hideout": {
 			"ability": "Poison Point",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29151,7 +29151,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Swimmer-M Roland": {
 			"ability": "Guts",
-			"item": "Blackglasses",
+			"item": "Black Glasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29233,7 +29233,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Lady Gillian": {
 			"ability": "Swift Swim",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29273,7 +29273,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 1 Five Island": {
 			"ability": "Swift Swim",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29375,7 +29375,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 1 Tower": {
 			"ability": "Shield Dust",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -30087,7 +30087,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Admin Ariana 4": {
 			"ability": "Chlorophyll",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -30127,7 +30127,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 3 Silph": {
 			"ability": "Chlorophyll",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -30435,7 +30435,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Swimmer-M Samir": {
 			"ability": "Thick Fat",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -30475,7 +30475,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Wartortle": {
-		"Rival Terry Boat Shit Turtle": {
+		"Rival Terry Boat Mid Turtle": {
 			"ability": "Shell Armor",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -30495,7 +30495,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Relaxed"
 		},
-		"Rival Terry Cerulean Shit Turtle": {
+		"Rival Terry Cerulean Mid Turtle": {
 			"ability": "Shell Armor",
 			"item": "Lum Berry",
 			"ivs": {
@@ -30760,7 +30760,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Grunt 2 Ember": {
 			"ability": "Levitate",
-			"item": "Brightpowder",
+			"item": "Bright Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
