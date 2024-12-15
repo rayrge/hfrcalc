@@ -11378,7 +11378,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Celdaon": {
 			"ability": "Swarm",
-			"item": "Silverpowder",
+			"item": "Silver Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11538,7 +11538,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Swimmer-M Spencer": {
 			"ability": "Swarm",
-			"item": "Silverpowder",
+			"item": "Silver Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11558,7 +11558,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Youngster Cordell": {
 			"ability": "Swarm",
-			"item": "Silverpowder",
+			"item": "Silver Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -13222,7 +13222,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Saffron": {
 			"ability": "Oblivious",
-			"item": "Twistedspoon",
+			"item": "Twisted Spoon",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -17145,7 +17145,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Ruin Maniac Foster": {
 			"ability": "Clear Body",
-			"item": "Twistedspoon",
+			"item": "Twisted Spoon",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24258,7 +24258,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Juggler Shawn": {
 			"ability": "Swarm",
-			"item": "Silverpowder",
+			"item": "Silver Powder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -26455,7 +26455,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Fisherman Elliot": {
 			"ability": "Natural Cure",
-			"item": "Twistedspoon",
+			"item": "Twisted Spoon",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -26655,7 +26655,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Scientist Ed": {
 			"ability": "Natural Cure",
-			"item": "Twistedspoon",
+			"item": "Twisted Spoon",
 			"ivs": {
 				"at": 31,
 				"df": 31,
