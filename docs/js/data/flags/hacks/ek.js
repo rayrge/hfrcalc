@@ -252,68 +252,46 @@ var CUSTOMHACKFLAGS_EK = {
             "Leader Koga",
         ],
         "balanceBadge": [
-            // Route 115
-            "Battle Girl Cyndy",
-            "Ninja Boy Jaiden",
-            "Triathlete Kyra",
-            "Black Belt Koichi",
-            "Battle Girl Helene",
-            "Psychic Alix",
-            "Expert Timothy",
-            // Route 105
-            "Ruin Maniac Foster",
-            "Bird Keeper Josue",
-            "Ruin Maniac Andres",
-            // Route 108
-            "Team Aqua Grunt@ Route 108",
-            "Cooltrainer Carolina",
-            "Sailor Cory",
-            "Fisherman Wade",
-            // Route 118
-            "Interviewers Gabby & Ty #2",
-            "Fisherman Barny",
-            "Bird Keeper Perry",
-            "Youngster Deandre",
-            "Guitarist Dalton",
-            "Bird Keeper Chester",
-            "Aroma Lady Rose",
-            // Route 119
-            "Bird Keeper Hugh",
-            "Pokémon Ranger Catherine",
-            "Pokémon Ranger Jackson",
-            "Ninja Boy Yasu",
-            "Bird Keeper Phil",
-            "Parasol Lady Missy",
-            "Bug Maniac Darrin",
-            "Ninja Boy Takashi",
-            // Weather Institute
-            "Team Aqua Grunt#1 @ Weather Institute",
-            "Team Aqua Grunt#2 @ Weather Institute",
-            "Team Aqua Grunt#3 @ Weather Institute",
-            "Team Aqua Grunt#4 @ Weather Institute",
-            "Team Aqua Grunt#5 @ Weather Institute",
-            "Aqua Admin Shelly #1",
-            // Route 119
-            "Pokémon Trainer May #3 [Blaziken]",
-            "Pokémon Trainer May #3 [Swampert]",
-            "Pokémon Trainer May #3 [Sceptile]",
-            "Pokémon Trainer Brendan #3 [Blaziken]",
-            "Pokémon Trainer Brendan #3 [Swampert]",
-            "Pokémon Trainer Brendan #3 [Sceptile]",
-            "Guitarist Beth",
-            "Ninja Boy Hideo",
-            // Route 120
+            // Back to Lavender
+            "Picnicker Becky",
             "Bird Keeper Robert",
-            "Parasol Lady Clarissa",
-            "Ninja Boy Riley",
-            // Fortree Gym
-            "Pokémon Ranger Ashley",
+            "Picnicker Alma",
+            "Pokemon Trainer May 2",
+            "Black Belt Koichi",
 
-            "Ninja Boy Edwardo",
-            "Pokémon Ranger Flint",
-            "Pokémon Breeder Humberto",
-            "Dragon Tamer Sora",
-            "Leader Winona",
+            // Company
+            "Rocket Grunt 1 Silph",
+            "Rocket Grunt 2 Silph",
+            "Rocket Grunt 3 Silph",
+            "Rocket Grunt 4 Silph",
+            "Scientist Taylor",
+            "Rocket Grunt 5 Silph",
+            "Rocket Grunt 6 Silph",
+            "Rocket Grunt 7 Silph",
+            "Rocket Grunt 8 Silph",
+            "Rocket Grunt 9 Silph",
+            "Rocket Admin Petrel 2",
+            "Scientist Connor",
+            "Rocket Grunt 10 Silph",
+            "Rocket Grunt 11 Silph",
+            "Scientist Beau",
+            "Rocket Grunt 12 Silph",
+            "Rocket Grunt 13 Silph",
+            "Scientist Ed",
+            "Rocket Grunt 14 Silph",
+            "Rocket Grunt 15 Silph",
+            "Scientist Jose",
+            "Rocket Admin Proton 2",
+            "Rocket Admin Ariana 2",
+            "Rocket Admin Archer 2",
+            "Rocket Boss Giovanni 2",
+
+            // Saffron Gym
+            "Psychic Preston",
+            "Channeler Amanda",
+            "Psychic Johan",
+            "Leader Sabrina",
+
             // Route 120
             "Battle Girl Tara",
             "Bird Keeper Colin",
@@ -324,7 +302,6 @@ var CUSTOMHACKFLAGS_EK = {
             "Pokémon Ranger Jenna",
             "Pokémon Ranger Lorenzo",
             "Ruin Maniac Chip",
-            "Bug Maniac Jeffrey",
             // Route 121
             "Hex Maniac Tammy",
             "Bug Maniac Ali",
@@ -528,28 +505,30 @@ var CUSTOMHACKFLAGS_EK = {
         ],
         "tag": [
             ["Picnicker Kelsey", "Camper Flint"],
+            ["Picnicker Isabelle", "Camper Jeff"],
             ["Sailor Trevor", "Sailor Edmond"],
             ["Biker Jaren", "Biker Ricardo"],
-            ["Picnicker Celia", "Picnicker Kindra"]
+            ["Picnicker Celia", "Picnicker Kindra"],
+            ["Rocket Grunt 14 Silph", "Rocket Grunt 15 Silph",]
         ]
     },
     "weather": {
         "any": [
             // Route 119
-            "Placeholder Jeff",
+            "Placeholder Samu",
         ],
         "sun": [
             // Lavaridge Gym
-            "Placeholder Jeff",
+            "Placeholder Samu",
             
         ],
         "rain": [
             // Route 120
-            "Placeholder Jeff",
+            "Placeholder Samu",
         ],
         "sand": [
             // Route 111
-            "Placeholder Jeff",
+            "Placeholder Samu",
         ]
     }
 };

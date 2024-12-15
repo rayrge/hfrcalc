@@ -124,7 +124,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cue Ball Zeek": {
 			"ability": "Pressure",
-			"item": "King'S Rock",
+			"item": "King's Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -640,7 +640,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Alakazam": {
 		"Biker William": {
 			"ability": "Inner Focus",
-			"item": "King'S Rock",
+			"item": "King's Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -860,7 +860,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rival Terry 22 Mid Turtle": {
 			"ability": "Inner Focus",
-			"item": "King'S Rock",
+			"item": "King's Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -880,7 +880,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rival Terry 22 Venu": {
 			"ability": "Inner Focus",
-			"item": "King'S Rock",
+			"item": "King's Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -900,7 +900,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rival Terry 22 Zard": {
 			"ability": "Inner Focus",
-			"item": "King'S Rock",
+			"item": "King's Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -5304,7 +5304,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Bird Keeper Robert": {
 			"ability": "Inner Focus",
-			"item": "King'S Rock",
+			"item": "King's Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -9489,7 +9489,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Admin Ariana 2": {
 			"ability": "Trace",
-			"item": "King'S Rock",
+			"item": "King's Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,

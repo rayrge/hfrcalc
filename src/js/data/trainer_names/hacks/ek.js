@@ -94,6 +94,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Camper Drew",
 	"Camper Chris",
 	"Hiker Alan",
+	"Picnicker Caitlin",
 	"Hiker Brice",
 	"Bug Catcher Brent",
 
@@ -193,26 +194,47 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Tamer Phil",
 	"Juggler Shawn",
 	"Leader Koga",
-	// Route 119
-	"Pokémon Trainer May #3 [Blaziken]",
-	"Pokémon Trainer May #3 [Swampert]",
-	"Pokémon Trainer May #3 [Sceptile]",
-	"Pokémon Trainer Brendan #3 [Blaziken]",
-	"Pokémon Trainer Brendan #3 [Swampert]",
-	"Pokémon Trainer Brendan #3 [Sceptile]",
-	"Guitarist Beth",
-	"Ninja Boy Hideo",
-	// Route 120
+	// Back to Lavender
+	"Picnicker Becky",
 	"Bird Keeper Robert",
-	"Parasol Lady Clarissa",
-	"Ninja Boy Riley",
-	// Fortree Gym
-	"Pokémon Ranger Ashley",
-	"Ninja Boy Edwardo",
-	"Pokémon Ranger Flint",
-	"Pokémon Breeder Humberto",
-	"Dragon Tamer Sora",
-	"Leader Winona",
+	"Picnicker Alma",
+	"Pokemon Trainer May 2",
+	"Black Belt Koichi",
+
+	// Company
+	"Rocket Grunt 1 Silph",
+	"Rocket Grunt 2 Silph",
+	"Rocket Grunt 3 Silph",
+	"Rocket Grunt 4 Silph",
+	"Scientist Taylor",
+	"Rocket Grunt 5 Silph",
+	"Rocket Grunt 6 Silph",
+	"Rocket Grunt 7 Silph",
+	"Rocket Grunt 8 Silph",
+	"Rocket Grunt 9 Silph",
+	"Rocket Admin Petrel 2",
+	"Scientist Connor",
+	"Rocket Grunt 10 Silph",
+	"Rocket Grunt 11 Silph",
+	"Scientist Beau",
+	"Rocket Grunt 12 Silph",
+	"Rocket Grunt 13 Silph",
+	"Scientist Ed",
+	"Rocket Grunt 14 Silph",
+	"Rocket Grunt 15 Silph",
+	"Scientist Jose",
+	"Rocket Admin Proton 2",
+	"Rocket Admin Ariana 2",
+	"Rocket Admin Archer 2",
+	"Rocket Boss Giovanni 2",
+
+	// Saffron Gym
+	"Psychic Preston",
+	"Channeler Amanda",
+	"Psychic Johan",
+	"Leader Sabrina",
+
+
 	// Route 120
 	"Battle Girl Tara",
 	"Bird Keeper Colin",
@@ -223,7 +245,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Pokémon Ranger Jenna",
 	"Pokémon Ranger Lorenzo",
 	"Ruin Maniac Chip",
-	"Bug Maniac Jeffrey",
 	// Route 121
 	"Hex Maniac Tammy",
 	"Bug Maniac Ali",
