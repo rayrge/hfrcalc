@@ -29,7 +29,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Rocket Admin Proton",
 
 	// Cerulean City
-	"Rival Terry Cerulean Shit Turtle",
+	"Rival Terry Cerulean Mid Turtle",
 	"Rival Terry Cerulean Venu",
 	"Rival Terry Cerulean Zard",
 
@@ -70,7 +70,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	// Boat
 	"Sailor John",
 	"Sailor Timothy",
-	"Rival Terry Boat Shit Turtle",
+	"Rival Terry Boat Mid Turtle",
 	"Rival Terry Boat Venu",
 	"Rival Terry Boat Zard",
 	"Sailor Huey",
@@ -141,7 +141,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Rocket Boss Giovanni",
 
 	// Tower
-	"Rival Terry Tower Shit Turtle",
+	"Rival Terry Tower Mid Turtle",
 	"Rival Terry Tower Venu",
 	"Rival Terry Tower Zard",
 

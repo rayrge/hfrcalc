@@ -4449,7 +4449,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Clamperl": {
 		"Sailor John": {
 			"ability": "Shell Armor",
-			"item": "Deepseatooth",
+			"item": "Deep Sea Tooth",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4469,7 +4469,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Swimmer-F Diana": {
 			"ability": "Shell Armor",
-			"item": "Deepseascale",
+			"item": "Deep Sea Scale",
 			"ivs": {
 				"at": 31,
 				"df": 31,

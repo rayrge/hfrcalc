@@ -913,7 +913,7 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Snorlax",
 		"Camerupt"
 	],
-	"Rival Terry Cerulean Shit Turtle": [
+	"Rival Terry Cerulean Mid Turtle": [
 		"Pidgeotto",
 		"Abra",
 		"Pikachu",
@@ -1428,7 +1428,7 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Metang",
 		"Forretress"
 	],
-	"Rival Terry Boat Shit Turtle": [
+	"Rival Terry Boat Mid Turtle": [
 		"Pidgeotto",
 		"Metang",
 		"Kadabra",
@@ -1449,7 +1449,7 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Houndour",
 		"Charmeleon"
 	],
-	"Rival Terry Tower Shit Turtle": [
+	"Rival Terry Tower Mid Turtle": [
 		"Pidgeot",
 		"Milotic",
 		"Houndoom",
@@ -1473,7 +1473,7 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Metagross",
 		"Charizard"
 	],
-	"Rival Terry 22 Shit Turtle": [
+	"Rival Terry 22 Mid Turtle": [
 		"Alakazam",
 		"Salamence",
 		"Milotic",
