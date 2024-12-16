@@ -509,7 +509,7 @@ var CUSTOMHACKFLAGS_EK = {
             ["Sailor Trevor", "Sailor Edmond"],
             ["Biker Jaren", "Biker Ricardo"],
             ["Picnicker Celia", "Picnicker Kindra"],
-            ["Rocket Grunt 14 Silph", "Rocket Grunt 15 Silph",]
+            ["Rocket Grunt 15 Silph", "Scientist Jose",]
         ]
     },
     "weather": {

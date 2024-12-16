@@ -905,7 +905,7 @@ $(".set-selector").change(function () {
 			if (ai == 0) {
 				trySendRandomAlert();
 			}
-		}
+		}	
 	}
 });
 

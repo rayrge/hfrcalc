@@ -552,7 +552,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Return"
 			],
-			"nature": "Quiet"
+			"nature": "Careful"
 		},
 		"Rocket Grunt 4 Hideout": {
 			"ability": "Rock Head",
@@ -3951,7 +3951,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Blizzard"
 			],
-			"nature": "Docile"
+			"nature": "Serious"
 		}
 	},
 	"Celebi": {
@@ -8820,7 +8820,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Wild Charge",
 				"Hidden Power Grass"
 			],
-			"nature": "Naive"
+			"nature": "Calm"
 		},
 		"Rocket Grunt 13 Silph": {
 			"ability": "Flash Fire",
@@ -18428,7 +18428,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Night Shade"
 			],
-			"nature": "Modest"
+			"nature": "Gentle"
 		}
 	},
 	"Moltres": {
@@ -18492,7 +18492,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Fire Punch"
 			],
-			"nature": "Bashful"
+			"nature": "Quirky"
 		},
 		"Gentleman Lamar": {
 			"ability": "Soundproof",
@@ -18512,7 +18512,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shock Wave",
 				"Thunder Wave"
 			],
-			"nature": "Lonely"
+			"nature": "Relaxed"
 		},
 		"Juggler Edward": {
 			"ability": "Soundproof",
@@ -18532,7 +18532,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Thunderbolt"
 			],
-			"nature": "Bashful"
+			"nature": "Quirky"
 		},
 		"Rocket Grunt Route 7": {
 			"ability": "Soundproof",
@@ -18552,7 +18552,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Hypnosis"
 			],
-			"nature": "Mild"
+			"nature": "Sassy"
 		},
 		"Scientist Beau": {
 			"ability": "Soundproof",
@@ -18572,7 +18572,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Thunderbolt"
 			],
-			"nature": "Sassy"
+			"nature": "Adamant"
 		}
 	},
 	"Muk": {
@@ -31342,7 +31342,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confuse Ray",
 				"Hidden Power Fire"
 			],
-			"nature": "Calm"
+			"nature": "Lonely"
 		}
 	},
 	"Yanma": {
