@@ -917,7 +917,10 @@ function trySendRiskyAlert() {
 }
 
 function trySendRandomAlert() {
-	alert("The next trainer has fully random AI, why would Samu do this #BLAMESAMU #SAMUDID911")
+	if (!localStorage.sentRandomAlert) {
+		localStorage.sentRandomAlert = "true";
+		alert("The next trainer has fully random AI, why would Samu do this #BLAMESAMU #SAMUDID911");
+	}
 }
 
 function trySendSwitchAlert() {
