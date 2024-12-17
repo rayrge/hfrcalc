@@ -1,6 +1,6 @@
 var CUSTOMHACKSETDEX_EK = {
 	"Abra": {
-		"Rival Terry Cerulean Mid Turtle": {
+		"Rival Terry Cerulean Turtle": {
 			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
@@ -858,7 +858,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hasty"
 		},
-		"Rival Terry 22 Mid Turtle": {
+		"Rival Terry 22 Turtle": {
 			"ability": "Inner Focus",
 			"item": "King's Rock",
 			"ivs": {
@@ -918,7 +918,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Docile"
 		},
-		"Rival Terry Tower Mid Turtle": {
+		"Rival Terry Tower Turtle": {
 			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
@@ -2621,7 +2621,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Beldum": {
-		"Rival Terry Cerulean Mid Turtle": {
+		"Rival Terry Cerulean Turtle": {
 			"ability": "Clear Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -2765,7 +2765,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hardy"
 		},
-		"God Terry": {
+		"Rival Terry": {
 			"ability": "Shell Armor",
 			"item": "Lum Berry",
 			"ivs": {
@@ -2785,7 +2785,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Docile"
 		},
-		"Rival Terry 22 Mid Turtle": {
+		"Rival Terry 22 Turtle": {
 			"ability": "Shell Armor",
 			"item": "Salac Berry",
 			"ivs": {
@@ -2805,7 +2805,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"Rival Terry Tower Mid Turtle": {
+		"Rival Terry Tower Turtle": {
 			"ability": "Shell Armor",
 			"item": "Mystic Water",
 			"ivs": {
@@ -4179,7 +4179,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"God Terry": {
+		"Rival Terry": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -12045,7 +12045,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naive"
 		},
-		"Rival Terry 22 Mid Turtle": {
+		"Rival Terry 22 Turtle": {
 			"ability": "Intimidate",
 			"item": "Black Glasses",
 			"ivs": {
@@ -12105,7 +12105,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Relaxed"
 		},
-		"Rival Terry Tower Mid Turtle": {
+		"Rival Terry Tower Turtle": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
 			"ivs": {
@@ -12347,7 +12347,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naive"
 		},
-		"Rival Terry Boat Mid Turtle": {
+		"Rival Terry Boat Turtle": {
 			"ability": "Own Tempo",
 			"item": "Lum Berry",
 			"ivs": {
@@ -13604,7 +13604,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Modest"
 		},
-		"Rival Terry Boat Mid Turtle": {
+		"Rival Terry Boat Turtle": {
 			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
@@ -16943,7 +16943,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"Rival Terry 22 Mid Turtle": {
+		"Rival Terry 22 Turtle": {
 			"ability": "Clear Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17003,7 +17003,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Quirky"
 		},
-		"Rival Terry Tower Mid Turtle": {
+		"Rival Terry Tower Turtle": {
 			"ability": "Clear Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17245,7 +17245,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Quiet"
 		},
-		"Rival Terry Boat Mid Turtle": {
+		"Rival Terry Boat Turtle": {
 			"ability": "Clear Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17710,7 +17710,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Impish"
 		},
-		"Rival Terry 22 Mid Turtle": {
+		"Rival Terry 22 Turtle": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17770,7 +17770,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Adamant"
 		},
-		"Rival Terry Tower Mid Turtle": {
+		"Rival Terry Tower Turtle": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20522,7 +20522,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Quirky"
 		},
-		"Rival Terry Tower Mid Turtle": {
+		"Rival Terry Tower Turtle": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20584,7 +20584,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Pidgeotto": {
-		"Rival Terry Boat Mid Turtle": {
+		"Rival Terry Boat Turtle": {
 			"ability": "Keen Eye",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -20644,7 +20644,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Quiet"
 		},
-		"Rival Terry Cerulean Mid Turtle": {
+		"Rival Terry Cerulean Turtle": {
 			"ability": "Keen Eye",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -20785,7 +20785,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Brave"
 		},
-		"Rival Terry Cerulean Mid Turtle": {
+		"Rival Terry Cerulean Turtle": {
 			"ability": "Static",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22478,7 +22478,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Rayquaza": {
-		"God Terry": {
+		"Rival Terry": {
 			"ability": "Air Lock",
 			"item": "Silk Scarf",
 			"ivs": {
@@ -23388,7 +23388,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Adamant"
 		},
-		"Rival Terry 22 Mid Turtle": {
+		"Rival Terry 22 Turtle": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
 			"ivs": {
@@ -28672,7 +28672,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"God Terry": {
+		"Rival Terry": {
 			"ability": "Intimidate",
 			"item": "Hard Stone",
 			"ivs": {
@@ -29517,7 +29517,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Adamant"
 		},
-		"God Terry": {
+		"Rival Terry": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -30475,7 +30475,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Wartortle": {
-		"Rival Terry Boat Mid Turtle": {
+		"Rival Terry Boat Turtle": {
 			"ability": "Shell Armor",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -30495,7 +30495,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Relaxed"
 		},
-		"Rival Terry Cerulean Mid Turtle": {
+		"Rival Terry Cerulean Turtle": {
 			"ability": "Shell Armor",
 			"item": "Lum Berry",
 			"ivs": {
@@ -31506,7 +31506,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Brave"
 		},
-		"God Terry": {
+		"Rival Terry": {
 			"ability": "Rough Skin",
 			"item": "Focus Band",
 			"ivs": {

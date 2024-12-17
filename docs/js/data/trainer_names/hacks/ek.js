@@ -29,7 +29,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Rocket Admin Proton",
 
 	// Cerulean City
-	"Rival Terry Cerulean Mid Turtle",
+	"Rival Terry Cerulean Turtle",
 	"Rival Terry Cerulean Venu",
 	"Rival Terry Cerulean Zard",
 
@@ -70,7 +70,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	// Boat
 	"Sailor John",
 	"Sailor Timothy",
-	"Rival Terry Boat Mid Turtle",
+	"Rival Terry Boat Turtle",
 	"Rival Terry Boat Venu",
 	"Rival Terry Boat Zard",
 	"Sailor Huey",
@@ -142,7 +142,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Rocket Boss Giovanni",
 
 	// Tower
-	"Rival Terry Tower Mid Turtle",
+	"Rival Terry Tower Turtle",
 	"Rival Terry Tower Venu",
 	"Rival Terry Tower Zard",
 
@@ -161,6 +161,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Fisherman Chip",
 	"Fisherman Hank",
 	"Fisherman Ned",
+	"Fisherman Elliot",
 	"Young Couple Gia & Jes",
 	"Rocker Luca",
 	"Camper Justin",
@@ -235,49 +236,43 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Leader Sabrina",
 
 
-	// Route 120
-	"Battle Girl Tara",
-	"Bird Keeper Colin",
-	"Cooltrainer Jerome",
-	"Ninja Boy Keigo",
-	"Parasol Lady Angelica",
-	"Cooltrainer Jennifer",
-	"Pokémon Ranger Jenna",
-	"Pokémon Ranger Lorenzo",
-	"Ruin Maniac Chip",
-	// Route 121
-	"Hex Maniac Tammy",
-	"Bug Maniac Ali",
-	"Beauty Jessica",
-	"Pokémon Breeder David",
-	"Sr and Jr Kate & Joy",
-	"Pokéfan Vanessa",
-	"Pokémon Breeder Nora",
-	"Cooltrainer Cristin",
-	"Cooltrainer Marcel",
-	"Gentleman Walter",
-	// Lilycove City
-	"Pokémon Trainer May #4 [Blaziken]",
-	"Pokémon Trainer May #4 [Swampert]",
-	"Pokémon Trainer May #4 [Sceptile]",
-	"Pokémon Trainer Brendan #4 [Blaziken]",
-	"Pokémon Trainer Brendan #4 [Swampert]",
-	"Pokémon Trainer Brendan #4 [Sceptile]",
-	// Mt. Pyre
-	"Hex Maniac Leah",
-	"Team Aqua Grunt#1 @ Mt. Pyre",
-	"Pokémon Breeder Gabrielle",
-	"Team Aqua Grunt#2 @ Mt. Pyre",
-	"Team Aqua Grunt#3 @ Mt. Pyre",
-	"Team Aqua Grunt#4 @ Mt. Pyre",
-	"Hex Maniac Valerie",
-	"Team Aqua Grunt#5 @ Mt. Pyre",
-	"Team Aqua Grunt#6 @ Mt. Pyre",
-	"Team Aqua Grunt#7 @ Mt. Pyre",
-	"Team Aqua Grunt#8 @ Mt. Pyre",
-	"Team Aqua Grunt#9 @ Mt. Pyre",
-	"Team Aqua Grunt#10 @ Mt. Pyre",
-	"Aqua Admin Matt #1",
+	// Route 21
+	"Fisherman Ronald",
+	"Fisherman Wade",
+	"Sis And Bro Lil & Ian",
+	"Swimmer-M Spencer",
+	"Fisherman Claude",
+	"Swimmer-M Jack",
+	"Swimmer-M Roland",
+
+	// Route 20
+	"Swimmer-M Roland",
+	"Swimmer-F Melissa",
+	"Picnicker Missy",
+	"Swimmer-F Shirley",
+	"Picnicker Irene",
+	"Swimmer-F Tiffany",
+	"Swimmer-F Nora",
+	"Bird Keeper Roger",
+	"Swimmer-M Dean",
+
+	// Pokemon Mansion
+	"Youngster Johnson",
+	"Burglar Arnie",
+	"Burglar Simon",
+	"Scientist Braydon",
+	"Scientist Solar",
+	"Burglar Lewis",
+	"Scientist Ivan",
+
+	// Cinnabar Gym
+	"Pokemaniac Shintaro",
+	"Engineer Fernando",
+	"Burglar Rob",
+	"Burglar Dash",
+	"Cooltrainer Hotshot",
+	"Leader Blaine",
+
 	// Magma Hideout
 	"Team Magma Grunt#1 @ Magma Hideout",
 	"Team Magma Grunt#2 @ Magma Hideout",

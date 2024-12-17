@@ -639,7 +639,8 @@ $(".set-selector").change(function () {
 			if (flags["battleType"]) {
 				if (flags["battleType"]["doubles"].includes(window.CURRENT_TRAINER)) {
 					battleType = "doubles-format";
-				} else for (var i in flags["battleType"]["tag"]) {
+				}
+				for (var i in flags["battleType"]["tag"]) {
 					if (flags["battleType"]["tag"][i].includes(window.CURRENT_TRAINER)) {
 						//battleType = "doubles-format"; 
 						$(".tag-container").show();
@@ -919,7 +920,7 @@ function trySendRiskyAlert() {
 function trySendRandomAlert() {
 	if (!localStorage.sentRandomAlert) {
 		localStorage.sentRandomAlert = "true";
-		alert("The next trainer has fully random AI, why would Samu do this #BLAMESAMU #SAMUDID911");
+		alert("The next trainer has fully random AI.");
 	}
 }
 
