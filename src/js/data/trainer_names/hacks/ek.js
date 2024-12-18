@@ -273,29 +273,36 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Cooltrainer Hotshot",
 	"Leader Blaine",
 
-	// Magma Hideout
-	"Team Magma Grunt#1 @ Magma Hideout",
-	"Team Magma Grunt#2 @ Magma Hideout",
-	"Team Magma Grunt#3 @ Magma Hideout",
-	"Team Magma Grunt#4 @ Magma Hideout",
-	"Team Magma Grunt#5 @ Magma Hideout",
-	"Team Magma Grunt#6 @ Magma Hideout",
-	"Team Magma Grunt#7 @ Magma Hideout",
-	"Team Magma Grunt#8 @ Magma Hideout",
-	"Team Magma Grunt#9 @ Magma Hideout",
-	"Team Magma Grunt#10 @ Magma Hideout",
-	"Team Magma Grunt#11 @ Magma Hideout",
-	"Team Magma Grunt#12 @ Magma Hideout",
-	"Team Magma Grunt#13 @ Magma Hideout",
-	"Team Magma Grunt#14 @ Magma Hideout",
-	"Team Magma Grunt#15 @ Magma Hideout",
-	"Team Magma Grunt#16 @ Magma Hideout",
-	"Magma Admin Courtney #1",
-	"Magma Leader Maxie #2",
-	// Aqua Hideout
-	"Team Aqua Grunt#1 @ Aqua Hideout",
-	"Team Aqua Grunt#2 @ Aqua Hideout",
-	"Team Aqua Grunt#3 @ Aqua Hideout",
+	// Sevii Isles - Kindle Road
+	"Swimmer-F Abigail",
+	"Picnicker Saya",
+	"Crush Girl Tanya",
+	"Camper Bryce",
+	"Crush Kin Mik & Kia",
+	"Black Belt Ken",
+	"Black Belt Ashi",
+	"Crush Girl Sharon",
+
+	// Mt Ember
+	"Pokemon Ranger Beth",
+	"Crush Girl Jocelyn",
+	"Pokemon Ranger Logan",
+
+	// Bond Bridge
+	"Twins Joy & Meg",
+	"Aroma Lady Nikki",
+	"Aroma Lady Violet",
+	"Tuber Amira",
+	"Tuber Alexis",
+
+	// Viridian Gym
+	"Rocket Admin Proton 3",
+	"Rocket Admin Petrel 3",
+	"Rocket Admin Ariana 3",
+	"Rocket Admin Archer 3",
+	"Leader Giovanni",
+
+	// 22
 	"Team Aqua Grunt#4 @ Aqua Hideout",
 	"Team Aqua Grunt#5 @ Aqua Hideout",
 	"Team Aqua Grunt#6 @ Aqua Hideout",

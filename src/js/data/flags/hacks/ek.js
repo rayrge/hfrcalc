@@ -331,36 +331,35 @@ var CUSTOMHACKFLAGS_EK = {
             "Leader Blaine",
         ],
         "mindBadge": [
-            // Mossdeep Space Center
-            "Team Magma Grunt#1 @ Mossdeep Space Center",
-            "Team Magma Grunt#2 @ Mossdeep Space Center",
-            "Team Magma Grunt#3 @ Mossdeep Space Center",
-            "Magma Admin Courtney #2",
-            "Team Magma Grunt#4 @ Mossdeep Space Center",
-            "Team Magma Grunt#5 @ Mossdeep Space Center",
-            "Team Magma Grunt#6 @ Mossdeep Space Center",
-            "Magma Leader Maxie #3",
-            "Magma Admin Tabitha #2",
-            // Seafloor Cavern
-            "Team Aqua Grunt#1 @ Seafloor Cavern",
-            "Team Aqua Grunt#2 @ Seafloor Cavern",
-            "Team Aqua Grunt#3 @ Seafloor Cavern",
-            "Team Aqua Grunt#4 @ Seafloor Cavern",
-            "Team Aqua Grunt#5 @ Seafloor Cavern",
-            "Aqua Admin Shelly #2",
-            "Aqua Leader Archie",
-            // Sootopolis Gym
-            "Beauty Connie",
-            "Pokémon Ranger Andrea",
-            "Parasol Lady Daphne",
-            "Pokéfan Bethany",
-            "Triathlete Brianna",
-            "Battle Girl Crissy",
-            "Pokémon Breeder Bridget",
-            "Expert Annika",
-            "Cooltrainer Olivia",
-            "Leader #1 Wallace",
-            "Leader #2 Juan",
+            // Sevii Isles - Kindle Road
+            "Swimmer-F Abigail",
+            "Picnicker Saya",
+            "Crush Girl Tanya",
+            "Camper Bryce",
+            "Crush Kin Mik & Kia",
+            "Black Belt Ken",
+            "Black Belt Ashi",
+            "Crush Girl Sharon",
+
+            // Mt Ember
+            "Pokemon Ranger Beth",
+            "Crush Girl Jocelyn",
+            "Pokemon Ranger Logan",
+
+            // Bond Bridge
+            "Twins Joy & Meg",
+            "Aroma Lady Nikki",
+            "Aroma Lady Violet",
+            "Tuber Amira",
+            "Tuber Alexis",
+
+            // Viridian Gym
+            "Rocket Admin Proton 3",
+            "Rocket Admin Petrel 3",
+            "Rocket Admin Ariana 3",
+            "Rocket Admin Archer 3",
+            "Leader Giovanni",
+
             // Meteor Falls
             "Dragon Tamer Nicolas",
             // Route 132

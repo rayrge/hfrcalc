@@ -19,5 +19,5 @@ const GAME_FEATURES = {
     "BD/SP": {},
     "S/V": {},
     
-    "Emerald Kaizo": {}
+    "Emerald Kaizo": {sync: true}
 };

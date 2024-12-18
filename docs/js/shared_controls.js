@@ -878,7 +878,15 @@ $(".set-selector").change(function () {
 			}
 		}
 		if (["Emerald Kaizo"].includes(game)) {
-			$("#ai-help").html(`AI Flag: [${ai}]`);
+			if (ai == 0) {
+				$("#ai-help").html(`AI: COMPLETELY RANDOM`);
+			}
+			else if (ai == 23) {
+				$("#ai-help").html(`AI: RISKY`);
+			}
+			else {
+				$("#ai-help").html(`AI: NORMAL`);
+			}
 			$("#ai-help").attr("flag", ai);
 
 			if (ai == 23) {

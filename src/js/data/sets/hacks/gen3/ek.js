@@ -4874,7 +4874,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Grass",
 				"Self-Destruct"
 			],
-			"nature": "Rash"
+			"nature": "Modest"
 		},
 		"Rocket Grunt 12 Silph": {
 			"ability": "Shell Armor",
@@ -7470,7 +7470,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Juggler Kirk": {
 			"ability": "Static",
@@ -10172,7 +10172,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Water Pulse",
 				"Hidden Power Psychic"
 			],
-			"nature": "Lax"
+			"nature": "Bold"
 		},
 		"Painter Celina": {
 			"ability": "Intimidate",
@@ -11170,7 +11170,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Teeter Dance"
 			],
-			"nature": "Jolly"
+			"nature": "Lax"
 		}
 	},
 	"Haunter": {
@@ -14356,7 +14356,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Hidden Power Grass"
 			],
-			"nature": "Sassy"
+			"nature": "Bashful"
 		},
 		"Engineer Fernando": {
 			"ability": "Volt Absorb",
@@ -15428,7 +15428,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Ice Punch",
 				"Thunder Punch",
-				"Hidden Power Dragon"
+				"Hidden Power Dark"
 			],
 			"nature": "Serious"
 		},
@@ -17950,7 +17950,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Milk Drink"
 			],
-			"nature": "Modest"
+			"nature": "Hasty"
 		},
 		"Picnicker Kindra": {
 			"ability": "Thick Fat",
@@ -18248,7 +18248,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Ice Beam",
 				"Thunderbolt",
-				"Hidden Power Dragon",
+				"Hidden Power Dark",
 				"Protect"
 			],
 			"nature": "Impish"
@@ -18288,7 +18288,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Ice Beam",
 				"Thunderbolt",
-				"Hidden Power Dragon",
+				"Hidden Power Dark",
 				"Hypnosis"
 			],
 			"nature": "Gentle"
@@ -21540,7 +21540,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Psychic"
 			],
-			"nature": "Mild"
+			"nature": "Serious"
 		},
 		"Cooltrainer Vermillion": {
 			"ability": "Trace",
@@ -21560,7 +21560,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Psychic"
 			],
-			"nature": "Lonely"
+			"nature": "Sassy"
 		},
 		"Engineer Fernando": {
 			"ability": "Trace",
@@ -21580,7 +21580,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Return"
 			],
-			"nature": "Brave"
+			"nature": "Careful"
 		},
 		"Juggler Mason": {
 			"ability": "Trace",
@@ -21600,7 +21600,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Psychic"
 			],
-			"nature": "Timid"
+			"nature": "Docile"
 		},
 		"Lass Whitney": {
 			"ability": "Trace",
@@ -21620,7 +21620,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Psychic"
 			],
-			"nature": "Gentle"
+			"nature": "Quiet"
 		},
 		"Rocker Luca": {
 			"ability": "Trace",
@@ -21640,7 +21640,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Recover"
 			],
-			"nature": "Sassy"
+			"nature": "Bashful"
 		},
 		"Rocket Admin Ariana 3": {
 			"ability": "Trace",
@@ -21660,7 +21660,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Psychic"
 			],
-			"nature": "Careful"
+			"nature": "Rash"
 		},
 		"Rocket Grunt 10 Silph": {
 			"ability": "Trace",
@@ -21680,7 +21680,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Recover"
 			],
-			"nature": "Naughty"
+			"nature": "Hardy"
 		}
 	},
 	"Primeape": {
@@ -22066,7 +22066,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Blizzard"
 			],
-			"nature": "Relaxed"
+			"nature": "Adamant"
 		},
 		"Rocket Grunt 14 Silph": {
 			"ability": "Intimidate",
@@ -22558,7 +22558,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Rest"
 			],
-			"nature": "Timid"
+			"nature": "Docile"
 		}
 	},
 	"Regirock": {
@@ -23506,7 +23506,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Fire Blast"
 			],
-			"nature": "Docile"
+			"nature": "Brave"
 		},
 		"Rocket Admin Ariana 4": {
 			"ability": "Intimidate",
@@ -23973,7 +23973,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flash Cannon",
 				"Extreme Speed"
 			],
-			"nature": "Quiet"
+			"nature": "Jolly"
 		},
 		"Gamer Rich": {
 			"ability": "Swarm",
@@ -24911,7 +24911,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Amnesia",
 				"Rest"
 			],
-			"nature": "Calm"
+			"nature": "Mild"
 		},
 		"Picnicker Kindra": {
 			"ability": "Shell Armor",
@@ -26030,7 +26030,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Rocket Admin Petrel 3": {
 			"ability": "Thick Fat",
@@ -30083,7 +30083,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Fire",
 				"Gunk Shot"
 			],
-			"nature": "Calm"
+			"nature": "Mild"
 		},
 		"Rocket Admin Ariana 4": {
 			"ability": "Chlorophyll",
