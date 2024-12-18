@@ -455,7 +455,7 @@ var CUSTOMHACKFLAGS_EK = {
             ["Swimmer-M Jack", "Swimmer-M Roland"],
             ["Burglar Arnie", "Burglar Simon"],
             ["Burglar Lewis", "Scientist Ivan"],
-            ["Tuber Amira", "Tuber Alexis"]
+            ["Tuber Amira", "Tuber Alexis"],
         ]
     },
     "weather": {
