@@ -303,111 +303,141 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Leader Giovanni",
 
 	// 22
-	"Team Aqua Grunt#4 @ Aqua Hideout",
-	"Team Aqua Grunt#5 @ Aqua Hideout",
-	"Team Aqua Grunt#6 @ Aqua Hideout",
-	"Team Aqua Grunt#7 @ Aqua Hideout",
-	"Team Aqua Grunt#8 @ Aqua Hideout",
-	"Aqua Admin Matt #2",
-	// Route 124
-	"Team Aqua Grunt#1 @ Route 124",
-	"Team Aqua Grunt#2 @ Route 124",
-	// Route 129
-	"Swimmerm Reed",
-	"Triathlete Chase",
-	"Triathlete Allison",
-	"Swimmerf Tisha",
-	"Swimmerm Clarence",
-	// Mossdeep Gym
-	"Psychic Preston",
-	"Psychic Maura",
-	"Psychic Samantha",
-	"Cooltrainer Virgil",
-	"Gentleman Nate",
-	"Expert Nicholas",
-	"Psychic Blake",
-	"Cooltrainer Hannah",
-	"Hex Maniac Sylvia",
-	"Expert Macey",
-	"Expert Clifford",
-	"Hex Maniac Kathleen",
-	"Leaders Tate&Liza",
-	// Mossdeep Space Center
-	"Team Magma Grunt#1 @ Mossdeep Space Center",
-	"Team Magma Grunt#2 @ Mossdeep Space Center",
-	"Team Magma Grunt#3 @ Mossdeep Space Center",
-	"Magma Admin Courtney #2",
-	"Team Magma Grunt#4 @ Mossdeep Space Center",
-	"Team Magma Grunt#5 @ Mossdeep Space Center",
-	"Team Magma Grunt#6 @ Mossdeep Space Center",
-	"Magma Leader Maxie #3",
-	"Magma Admin Tabitha #2",
-	// Seafloor Cavern
-	"Team Aqua Grunt#1 @ Seafloor Cavern",
-	"Team Aqua Grunt#2 @ Seafloor Cavern",
-	"Team Aqua Grunt#3 @ Seafloor Cavern",
-	"Team Aqua Grunt#4 @ Seafloor Cavern",
-	"Team Aqua Grunt#5 @ Seafloor Cavern",
-	"Aqua Admin Shelly #2",
-	"Aqua Leader Archie",
-	// Sootopolis Gym
-	"Beauty Connie",
-	"Pokémon Ranger Andrea",
-	"Parasol Lady Daphne",
-	"Pokéfan Bethany",
-	"Triathlete Brianna",
-	"Battle Girl Crissy",
-	"Pokémon Breeder Bridget",
-	"Expert Annika",
-	"Cooltrainer Olivia",
-	"Leader #1 Wallace",
-	"Leader #2 Juan",
-	// Meteor Falls
-	"Dragon Tamer Nicolas",
-	// Route 132
-	"Fisherman Ronald",
-	// Route 123
-	"Psychic Cameron",
-	"Aroma Lady Violet",
-	"Ninja Boy Jonas",
-	"Collector Ed",
-	"Hex Maniac Kindra",
-	"Guitarist Fernando",
-	"Bird Keeper Alberto",
-	"Psychic Jacki",
-	"Parasol Lady Kayley",
-	"Bug Maniac Davis",
-	"Cooltrainer Wendy",
-	"Cooltrainer Braxton",
-	"Old Couple Miu & Yuki",
-	"Cooltrainer Jazmyn",
-	"Expert Frederick",
-	// Route 128
-	"Fisherman Wayne",
-	"Cooltrainer Ruben",
-	"Cooltrainer Alexa",
+	"Rival Terry 22 Turtle",
+	"Rival Terry 22 Venu",
+	"Rival Terry 22 Zard",
+
+	// Route 23 THE GAUNTLET
+	"Cooltrainer Pewter",
+	"Cooltrainer Cerulean",
+	"Cooltrainer Vermillion",
+	"Cooltrainer Celdaon",
+	"Cooltrainer Fuschia",
+	"Cooltrainer Saffron",
+	"Cooltrainer Cinnebar",
+	"Cooltrainer Viridian",
+
+	// Route 17 Balling Route
+	"Biker William",
+	"Biker Jaxon",
+	"Cue Ball Jamal",
+	"Cue Ball Zeek",
+	"Biker Virgil",
+	"Cue Ball Raul",
+	"Biker Steering",
+	"Biker Virtue",
+	"Biker Balling",
+
 	// Victory Road
-	"Cooltrainer Albert",
-	"Cooltrainer Hope",
-	"Pokémon Trainer Wally #2",
-	"Expert Samuel",
-	"Expert Shannon",
-	"Pokémon Trainer Red #3",
-	"Cooltrainer Owen",
-	"Expert Dianne",
-	"Expert Quincy",
-	"Expert Julie",
-	"Expert Edgar",
+	"Cooltrainer Naomi",
+	"Cooltrainer Daisuke",
+	"Cooltrainer Alexa",
 	"Cooltrainer Caroline",
-	"Expert Halle",
-	"Expert Mitchell",
-	"Expert Felix",
-	"Cooltrainer Katelynn",
-	"Winstrate Vito",
-	// Evergrande City
-	"Elite Four Sidney",
-	"Elite Four Phoebe",
-	"Elite Four Glacia",
-	"Elite Four Drake",
-	"Champion Steven",
+	"Juggler Yuri",
+	"Cool Couple Ray & Tyra",
+	"Pokemon Trainer Brendan 2",
+
+	// THE ELITE 4
+	"Elite Four Lorelei",
+	"Elite Four Bruno",
+	"Elite Four Agatha",
+	"Elite Four Lance",
+	"Champion Terry",
+
+	// Mt Ember
+	"Rocket Grunt 1 Ember",
+	"Rocket Grunt 2 Ember",
+
+	// Icefall
+	"Rocket Grunt Icefall",
+
+	// Ruin Valley
+	"Swimmer-F Denise",
+	"Swimmer-M Samir",
+	"Aroma Lady Rose",
+	"Twins Miu & Mia",
+	"Hiker Earl",
+	"Juggler Edward",
+	"Black Belt Chuck",
+	"Pokemaniac Hector",
+	"Ruin Maniac Stanly",
+	"Ruin Maniac Foster",
+	"Cooltrainer Daniel",
+
+	// 5 Island
+	"Rocket Grunt 1 Five Island",
+	"Rocket Grunt 2 Five Island",
+	"Rocket Grunt 3 Five Island",
+
+	// Warehouse
+	"Rocket Admin Petrel 4",
+	"Rocket Admin Proton 4",
+	"Rocket Admin Ariana 4",
+	"Rocket Admin Archer 4",
+	"Scientist Gideon",
+
+	// Pattern Brush Celebi
+	"Youngster Cordell",
+	"Ruin Maniac Layton",
+	"Youngster Nash",
+	"Pokemon Breeder Allison",
+	"Bug Catcher Bugsy",
+
+	// Green Path
+	"Psychic Jaclyn",
+	
+	// Outcast Island
+	"Ruin Maniac Tim",
+
+	// Altering Cave Groudon
+	"Cooltrainer Tierra",
+
+	// Memorial Pillar Rayquaza
+	"Bird Keeper Falkner",
+	
+	// Water Labyrinth Umi
+	"Cooltrainer Umi",
+
+	// Resort Goregous Deoxys
+	"Lass Whitney",
+
+	// Resort Gorgeous
+	"Lady Gillian",
+	"Painter Celina",
+	"Painter Daisy",
+
+	// Lost Cave HoOh/Lugia
+	"Pokemon Ranger Morty",
+	
+	// Icefall
+	"Gamer Pyrce",
+
+	// Trainer Tower
+	"Lady Jasmine",
+
+	// Canyon Entrance
+	"Juggler Mason",
+	"Pokemon Ranger Nicolas",
+	"Pokemon Ranger Madeline",
+
+	// Sevault Canyon Jirachi
+	"Pokemon Ranger Katelyn",
+	"Pokemon Ranger Jackson",
+	"Tamer Evan",
+	"Crush Girl Cyndy",
+	"Cooltrainer Michelle",
+	"Cooltrainer Leroy",
+	"Cool Couple Lex & Nya",
+	"Cooltrainer Claire",
+
+	// Route 19 Kyogre
+	"Swimmer-F Aqua",
+	"Cool Couple Tama & Shi",
+
+	// E4R2
+	"Elite Four Lorelei Rematch",
+	"Elite Four Bruno Rematch",
+	"Elite Four Agatha Rematch",
+	"Elite Four Lance Rematch",
+	"Rival Terry",
 ];

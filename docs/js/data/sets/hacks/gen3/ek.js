@@ -3018,9 +3018,9 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 100,
 			"moves": [
-				"Hadoken",
-				"Shoryuken",
-				"Tatsumaki",
+				"Overheat",
+				"Superpower",
+				"Sky Attack",
 				"Hidden Power Grass"
 			],
 			"nature": "Bold"
