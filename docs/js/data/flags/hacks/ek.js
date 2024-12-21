@@ -551,13 +551,15 @@ var CUSTOMHACKFLAGS_EK = {
         "sun": [
             // Lavaridge Gym
             "Ruin Maniac Tim",
-            "Cooltrainer Tierra"
+            "Cooltrainer Tierra",
+            "Elite Four Bruno Rematch"
         ],
         "rain": [
             // Route 120
             "Cooltrainer Umi",
             "Swimmer-F Aqua",
 	        "Cool Couple Tama & Shi",
+            "Elite Four Lorelei Rematch"
         ],
         "sand": [
             "Pokemon Ranger Katelyn",
