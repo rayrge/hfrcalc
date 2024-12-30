@@ -11370,7 +11370,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Swords Dance",
 				"Megahorn",
-				"Ancientpowerr",
+				"Ancientpower",
 				"Superpower"
 			],
 			"nature": "Gentle"
