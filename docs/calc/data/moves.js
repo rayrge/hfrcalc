@@ -490,7 +490,7 @@ var ADV_PATCH = {
     'Magic Coat': { bp: 0, category: 'Status', type: 'Psychic', priority: 4 },
     Memento: { bp: 0, category: 'Status', type: 'Dark' },
     'Nature Power': { bp: 0, category: 'Status', type: 'Normal' },
-    'Needle Arm': { bp: 95, type: 'Grass', makesContact: true },
+    'Needle Arm': { bp: 85, type: 'Grass', makesContact: true },
     'Odor Sleuth': { bp: 0, category: 'Status', type: 'Normal' },
     Overheat: { bp: 120, type: 'Fire', makesContact: true, recoil: [1, 3] },
     Revenge: { bp: 60, type: 'Fighting', makesContact: true },

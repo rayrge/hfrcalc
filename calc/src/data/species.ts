@@ -451,7 +451,7 @@ const RBY: {[name: string]: SpeciesData} = {
   },
   Moltres: {
       types: ['Fire', 'Flying'],
-      bs: { hp: 90, at: 110, df: 90, sp: 95, sl: 125 },
+      bs: { hp: 90, at: 110, df: 85, sp: 100, sl: 125 },
       weightkg: 60
   },
   'Mr. Mime': {
@@ -809,7 +809,7 @@ const GSC_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   Bellsprout: { bs: { sa: 70, sd: 30 } },
   Blastoise: { bs: { sa: 85, sd: 105 } },
   Bulbasaur: { bs: { sa: 65, sd: 65 } },
-  Butterfree: { bs: { sa: 90, sd: 80 } },
+  Butterfree: { bs: { sa: 80, sd: 80 } },
   Caterpie: { bs: { sa: 20, sd: 20 } },
   Chansey: { bs: { sa: 105, sd: 105 }, nfe: true },
   Charizard: { bs: { sa: 109, sd: 85 } },
@@ -953,7 +953,7 @@ const GSC_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   Aipom: { types: ['Normal'], bs: { hp: 55, at: 70, df: 55, sa: 40, sd: 55, sp: 105 }, weightkg: 11.5 },
   Ampharos: {
       types: ['Electric'],
-      bs: { hp: 90, at: 75, df: 85, sa: 115, sd: 90, sp: 55 },
+      bs: { hp: 100, at: 75, df: 75, sa: 115, sd: 90, sp: 55 },
       weightkg: 61.5
   },
   Ariados: {
@@ -1122,7 +1122,7 @@ const GSC_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   },
   Houndoom: {
       types: ['Dark', 'Fire'],
-      bs: { hp: 75, at: 80, df: 50, sa: 130, sd: 80, sp: 110 },
+      bs: { hp: 65, at: 90, df: 50, sa: 130, sd: 80, sp: 110 },
       weightkg: 35
   },
   Houndour: {

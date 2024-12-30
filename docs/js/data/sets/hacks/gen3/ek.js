@@ -190,7 +190,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 62,
+			"level": 60,
 			"moves": [
 				"Howl",
 				"Shadow Ball",
@@ -1100,6 +1100,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Altaria": {
+		"Swimmer-F Ruka": {
+			"ability": "Natural Cure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 71,
+			"moves": [
+				"Draco Meteor",
+				"Blizzard",
+				"Fire Blast",
+				"Earthquake"
+			],
+			"nature": "Lonely"
+		},
 		"Biker Balling": {
 			"ability": "Natural Cure",
 			"item": "Lum Berry",
@@ -1111,7 +1131,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Draco Meteor",
 				"Aeroblast",
@@ -1245,7 +1265,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 85,
+			"level": 81,
 			"moves": [
 				"Air Slash",
 				"Earthquake",
@@ -1593,7 +1613,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Overheat",
 				"Extreme Speed",
@@ -1617,7 +1637,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Extreme Speed",
 				"Wild Charge",
-				"Overheat",
+				"Flamethrower",
 				"Hidden Power Grass"
 			],
 			"nature": "Timid"
@@ -1936,7 +1956,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Ancientpower",
 				"X-Scissor",
@@ -2413,7 +2433,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Thunderbolt"
 			],
-			"nature": "Docile"
+			"nature": "Naive"
 		},
 		"Rocket Grunt 4 Hideout": {
 			"ability": "Insomnia",
@@ -2745,6 +2765,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Blastoise": {
+		"Swimmer-F Ruka": {
+			"ability": "Shell Armor",
+			"item": "Mystic Water",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 72,
+			"moves": [
+				"Hydro Pump",
+				"Ice Beam",
+				"Counter",
+				"Mirror Coat"
+			],
+			"nature": "Brave"
+		},
 		"Crush Girl Sharon": {
 			"ability": "Shell Armor",
 			"item": "Focus Band",
@@ -2956,14 +2996,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 68,
 			"moves": [
 				"Superpower",
 				"Blast Burn",
 				"Wild Charge",
 				"Hidden Power Grass"
 			],
-			"nature": "Naughty"
+			"nature": "Serious"
 		},
 		"Cooltrainer Alexa": {
 			"ability": "Hyper Cutter",
@@ -3524,7 +3564,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Rock Slide"
 			],
-			"nature": "Jolly"
+			"nature": "Brave"
 		},
 		"Cooltrainer Mary": {
 			"ability": "Natural Cure",
@@ -3944,7 +3984,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 63,
+			"level": 61,
 			"moves": [
 				"Hydro Pump",
 				"Thunder",
@@ -4698,8 +4738,8 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 77,
 			"moves": [
-				"Follow Me",
-				"Protect",
+				"Ice Beam",
+				"Hyper Beam",
 				"Psychic",
 				"Flamethrower"
 			],
@@ -5161,7 +5201,7 @@ var CUSTOMHACKSETDEX_EK = {
 	},
 	"Crawdaunt": {
 		"Biker Gerald": {
-			"ability": "Hyper Cutter",
+			"ability": "Shell Armor",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -5181,7 +5221,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Cooltrainer Daisuke": {
-			"ability": "Hyper Cutter",
+			"ability": "Shell Armor",
 			"item": "Salac Berry",
 			"ivs": {
 				"at": 31,
@@ -5201,7 +5241,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Rocket Grunt 6 Hideout": {
-			"ability": "Hyper Cutter",
+			"ability": "Shell Armor",
 			"item": "Scope Lens",
 			"ivs": {
 				"at": 31,
@@ -5221,7 +5261,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Naive"
 		},
 		"Sailor Huey": {
-			"ability": "Hyper Cutter",
+			"ability": "Shell Armor",
 			"item": "Mystic Water",
 			"ivs": {
 				"at": 31,
@@ -5241,7 +5281,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Naive"
 		},
 		"Swimmer-M Dean": {
-			"ability": "Hyper Cutter",
+			"ability": "Shell Armor",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -5262,6 +5302,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Crobat": {
+		"Burglar Arnie": {
+			"ability": "Inner Focus",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 74,
+			"moves": [
+				"Gunk Shot",
+				"Air Slash",
+				"Super Fang",
+				"Giga Drain"
+			],
+			"nature": "Careful"
+		},
 		"Biker Virtue": {
 			"ability": "Inner Focus",
 			"item": "Leftovers",
@@ -5273,7 +5333,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Confuse Ray",
 				"Gunk Shot",
@@ -5390,7 +5450,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 56,
+			"level": 55,
 			"moves": [
 				"Sky Attack",
 				"Heat Wave",
@@ -5940,7 +6000,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 75,
+			"level": 65,
 			"moves": [
 				"Transform"
 			],
@@ -6150,7 +6210,7 @@ var CUSTOMHACKSETDEX_EK = {
 	},
 	"Donphan": {
 		"Beauty Lola": {
-			"ability": "Sturdy",
+			"ability": "Rock Head",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -6170,7 +6230,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Calm"
 		},
 		"Biker Ricardo": {
-			"ability": "Sturdy",
+			"ability": "Rock Head",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -6190,7 +6250,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Docile"
 		},
 		"Cooltrainer Viridian": {
-			"ability": "Sturdy",
+			"ability": "Rock Head",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -6210,7 +6270,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Gentle"
 		},
 		"Gamer Darian": {
-			"ability": "Sturdy",
+			"ability": "Rock Head",
 			"item": "Sitrus Berry",
 			"ivs": {
 				"at": 31,
@@ -6230,7 +6290,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Picnicker Missy": {
-			"ability": "Sturdy",
+			"ability": "Rock Head",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -6250,7 +6310,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Bashful"
 		},
 		"Twins Kiri & Jan": {
-			"ability": "Sturdy",
+			"ability": "Rock Head",
 			"item": "Choice Band",
 			"ivs": {
 				"at": 31,
@@ -6779,7 +6839,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 90,
+			"level": 88,
 			"moves": [
 				"Earthquake",
 				"Ancientpower",
@@ -7036,7 +7096,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 78,
 			"moves": [
 				"Shadow Ball",
 				"Brick Break",
@@ -7562,7 +7622,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 70,
 			"moves": [
 				"Thunderbolt",
 				"Fire Punch",
@@ -7584,7 +7644,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Explosion",
 				"Thunderbolt",
@@ -8273,7 +8333,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Double-Edge"
 			],
-			"nature": "Calm"
+			"nature": "Adamant"
 		},
 		"Rocket Grunt 1 Five Island": {
 			"ability": "Chlorophyll",
@@ -8511,7 +8571,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Superpower",
 				"Aeroblast",
@@ -9378,7 +9438,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Hypnosis",
 				"Psychic",
@@ -10845,10 +10905,9 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 83,
 			"moves": [
-				"Dragon Dance",
+				"Return",
 				"Air Slash",
-				"Earthquake",
-				"Double-Edge"
+				"Earthquake"
 			],
 			"nature": "Relaxed"
 		},
@@ -11103,14 +11162,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 68,
 			"moves": [
-				"Fake Out",
+				"Bulk Up",
 				"Superpower",
-				"Earth Power",
+				"Ancientpower",
 				"Shadow Punch"
 			],
-			"nature": "Naive"
+			"nature": "Sassy"
 		},
 		"Crush Girl Tanya": {
 			"ability": "Thick Fat",
@@ -11307,14 +11366,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 68,
 			"moves": [
-				"Detect",
+				"Swords Dance",
 				"Megahorn",
-				"Brick Break",
+				"Ancientpoewr",
 				"Superpower"
 			],
-			"nature": "Jolly"
+			"nature": "Gentle"
 		},
 		"Bug Catcher Brent": {
 			"ability": "Swarm",
@@ -11609,14 +11668,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 68,
 			"moves": [
 				"Bulk Up",
 				"Rock Slide",
-				"Detect",
+				"Earthquake",
 				"Superpower"
 			],
-			"nature": "Calm"
+			"nature": "Adamant"
 		},
 		"Crush Kin Ron & Mya": {
 			"ability": "Guts",
@@ -11671,14 +11730,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 68,
 			"moves": [
 				"Superpower",
-				"Earth Power",
+				"Earthquake",
 				"Ancientpower",
-				"Detect"
+				"Bulk Up"
 			],
-			"nature": "Naughty"
+			"nature": "Serious"
 		},
 		"Crush Kin Ron & Mya": {
 			"ability": "Limber",
@@ -12560,7 +12619,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 70,
 			"moves": [
 				"Psychic",
 				"Shadow Ball",
@@ -12756,6 +12815,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Jolteon": {
+		"Swimmer-F Ruka": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 71,
+			"moves": [
+				"Thunderbolt",
+				"Tail Glow",
+				"Hidden Power Grass",
+				"Crunch"
+			],
+			"nature": "Mild"
+		},
 		"Biker Virtue": {
 			"ability": "Static",
 			"item": "Lum Berry",
@@ -12767,7 +12846,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Thunder",
 				"Hidden Power Ice",
@@ -13298,7 +13377,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Lovely Kiss"
 			],
-			"nature": "Lonely"
+			"nature": "Lax"
 		},
 		"Rocket Grunt Dig": {
 			"ability": "Oblivious",
@@ -14693,7 +14772,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 90,
+			"level": 88,
 			"moves": [
 				"Helping Hand",
 				"Follow Me"
@@ -14998,7 +15077,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 78,
 			"moves": [
 				"Extreme Speed"
 			],
@@ -15383,14 +15462,14 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 68,
 			"moves": [
 				"Mach Punch",
 				"Rock Slide",
 				"Brick Break",
 				"Superpower"
 			],
-			"nature": "Relaxed"
+			"nature": "Modest"
 		},
 		"Cooltrainer Hotshot": {
 			"ability": "Guts",
@@ -15434,7 +15513,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Crush Kin Mik & Kia": {
 			"ability": "Guts",
-			"item": "Choice Band",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -16819,7 +16898,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Meteor Mash",
 				"Earthquake",
 				"Agility",
-				"Explosion"
+				"Rock Slide"
 			],
 			"nature": "Calm"
 		},
@@ -17365,7 +17444,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Shadow Ball",
 				"Flamethrower",
-				"Ice Beam"
+				"Brick Break"
 			],
 			"nature": "Bashful"
 		}
@@ -17909,6 +17988,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aurora Beam"
 			],
 			"nature": "Bold"
+		},
+		"Swimmer-F Ruka": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 71,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Hidden Power Grass",
+				"Rest"
+			],
+			"nature": "Jolly"
 		}
 	},
 	"Miltank": {
@@ -18485,7 +18584,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Hypnosis",
 				"Psychic",
@@ -18587,7 +18686,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Gunk Shot",
 				"Shadow Ball",
@@ -18634,7 +18733,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Giga Drain"
 			],
-			"nature": "Docile"
+			"nature": "Calm"
 		},
 		"Cooltrainer Fuschia": {
 			"ability": "Stench",
@@ -19354,7 +19453,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Hypnosis",
 				"Sacred Fire",
@@ -19381,7 +19480,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Grass",
 				"Hypnosis"
 			],
-			"nature": "Lax"
+			"nature": "Careful"
 		},
 		"Channeler Amanda": {
 			"ability": "Pressure",
@@ -21447,7 +21546,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 71,
 			"moves": [
 				"Superpower",
 				"Hydro Pump",
@@ -22325,7 +22424,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 72,
 			"moves": [
 				"Heat Wave",
 				"Megahorn",
@@ -22676,7 +22775,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Head Smash",
 				"Hydro Pump"
@@ -22806,6 +22905,25 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Roselia": {
+		"Swimmer-F Ruka": {
+			"ability": "Natural Cure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 71,
+			"moves": [
+				"Gunk Shot",
+				"Leaf Blade",
+				"Hidden Power Electric"
+			],
+			"nature": "Sassy"
+		},
 		"Beauty Tamia": {
 			"ability": "Natural Cure",
 			"item": "Lum Berry",
@@ -23281,10 +23399,10 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 83,
 			"moves": [
-				"Dragon Dance",
+				"Flamethrower",
 				"Air Slash",
 				"Earthquake",
-				"Draco Meteor"
+				"Dragon Claw"
 			],
 			"nature": "Timid"
 		},
@@ -23609,7 +23727,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ancientpower",
 				"Superpower"
 			],
-			"nature": "Lonely"
+			"nature": "Modest"
 		},
 		"Camper Benny": {
 			"ability": "Battle Armor",
@@ -23906,7 +24024,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Flash Cannon",
 				"Megahorn",
@@ -23931,7 +24049,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Flash Cannon",
 				"X-Scissor",
-				"Rock Slide"
+				"Hidden Power Rock"
 			],
 			"nature": "Quirky"
 		},
@@ -25143,9 +25261,9 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 70,
 			"moves": [
-				"Detect",
+				"Leer",
 				"Sky Attack",
 				"Flash Cannon",
 				"Drill Run"
@@ -25429,9 +25547,9 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hydro Pump",
 				"Thunderbolt",
 				"Slack Off",
-				"Psychic"
+				"Psycho Boost"
 			],
-			"nature": "Lax"
+			"nature": "Quiet"
 		},
 		"Super Nerd Glenn": {
 			"ability": "Synchronize",
@@ -25724,7 +25842,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 90,
+			"level": 88,
 			"moves": [
 				"Blizzard"
 			],
@@ -25923,7 +26041,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 78,
 			"moves": [
 				"Double-Edge",
 				"Shadow Ball",
@@ -26346,7 +26464,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 83,
 			"moves": [
-				"Hydro Pump",
+				"Surf",
 				"Psychic",
 				"Thunderbolt",
 				"Ice Beam"
@@ -26531,7 +26649,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Hidden Power Grass"
 			],
-			"nature": "Quirky"
+			"nature": "Relaxed"
 		},
 		"Rocket Admin Archer": {
 			"ability": "Natural Cure",
@@ -27941,7 +28059,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Muddy Water",
 				"Gunk Shot",
@@ -28012,7 +28130,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Rocket Admin Petrel 4": {
 			"ability": "Clear Body",
-			"item": "Focus Band",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -28135,12 +28253,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 90,
+			"level": 88,
 			"moves": [
 				"Helping Hand",
 				"Follow Me",
 				"Teleport",
-				"Sand-Attack"
+				"Sand Attack"
 			],
 			"nature": "Modest"
 		},
@@ -28172,7 +28290,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 99,
+			"level": 95,
 			"moves": [
 				"Metronome"
 			],
@@ -28351,7 +28469,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 90,
+			"level": 88,
 			"moves": [
 				"Eruption"
 			],
@@ -28889,7 +29007,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Burglar Simon": {
 			"ability": "Poison Point",
-			"item": "Bright Powder",
+			"item": "Focus Band",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -30285,7 +30403,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 90,
+			"level": 88,
 			"moves": [
 				"Water Spout"
 			],
@@ -30304,7 +30422,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 83,
 			"moves": [
-				"Water Spout",
+				"Surf",
 				"Ice Beam",
 				"Earthquake",
 				"Hidden Power Electric"
@@ -30342,7 +30460,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 68,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -30570,7 +30688,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Sludge Bomb",
 				"Fire Blast",
@@ -30847,7 +30965,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 80,
 			"moves": [
 				"Earthquake",
 				"Muddy Water",
@@ -30912,26 +31030,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"sp": 31
 			},
 			"level": 51,
-			"moves": [
-				"Counter",
-				"Mirror Coat",
-				"Destiny Bond",
-				"Safeguard"
-			],
-			"nature": "Lax"
-		},
-		"Burglar Arnie": {
-			"ability": "Shadow Tag",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 74,
 			"moves": [
 				"Counter",
 				"Mirror Coat",

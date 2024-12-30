@@ -239,14 +239,12 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	// Route 21
 	"Fisherman Ronald",
 	"Fisherman Wade",
-	"Sis And Bro Lil & Ian",
 	"Swimmer-M Spencer",
 	"Fisherman Claude",
 	"Swimmer-M Jack",
 	"Swimmer-M Roland",
-
+	"Swimmer-F Ruka",
 	// Route 20
-	"Swimmer-M Roland",
 	"Swimmer-F Melissa",
 	"Picnicker Missy",
 	"Swimmer-F Shirley",

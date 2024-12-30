@@ -1,4 +1,11 @@
 var CUSTOMHACKPARTYORDER_EK = {
+	"Swimmer-F Ruka": [
+		"Milotic",
+		"Jolteon",
+		"Roselia",
+		"Altaria",
+		"Blastoise"
+	],
 	"Pokemaniac Cray": [
 		"Zangoose"
 	],
@@ -541,7 +548,7 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Gengar"
 	],
 	"Burglar Arnie": [
-		"Wobbuffet",
+		"Crobat",
 		"Ninetales",
 		"Breloom",
 		"Sandslash",

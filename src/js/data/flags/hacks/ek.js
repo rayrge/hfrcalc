@@ -296,14 +296,12 @@ var CUSTOMHACKFLAGS_EK = {
             // Route 21
             "Fisherman Ronald",
             "Fisherman Wade",
-            "Sis And Bro Lil & Ian",
             "Swimmer-M Spencer",
             "Fisherman Claude",
             "Swimmer-M Jack",
             "Swimmer-M Roland",
-
+            "Swimmer-F Ruka",
             // Route 20
-            "Swimmer-M Roland",
             "Swimmer-F Melissa",
             "Picnicker Missy",
             "Swimmer-F Shirley",
@@ -509,10 +507,6 @@ var CUSTOMHACKFLAGS_EK = {
             "Twins Kiri & Jan",
             "Crush Kin Ron & Mya",
             "Pokemon Trainer May 2",
-            "Black Belt Koichi",
-            "Psychic Johan",
-            "Sis And Bro Lil & Ian",
-            "Burglar Arnie",
             "Cue Ball Raul",
             "Scientist Braydon",
             "Cool Couple Ray & Tyra",
@@ -533,7 +527,7 @@ var CUSTOMHACKFLAGS_EK = {
             ["Picnicker Celia", "Picnicker Kindra"],
             ["Rocket Grunt 15 Silph", "Scientist Jose"],
             ["Swimmer-M Jack", "Swimmer-M Roland"],
-            ["Burglar Arnie", "Burglar Simon"],
+            ["Burglar Simon", "Scientist Braydon"],
             ["Burglar Lewis", "Scientist Ivan"],
             ["Tuber Amira", "Tuber Alexis"],
             ["Cue Ball Jamal", "Cue Ball Zeek"],
@@ -551,15 +545,13 @@ var CUSTOMHACKFLAGS_EK = {
         "sun": [
             // Lavaridge Gym
             "Ruin Maniac Tim",
-            "Cooltrainer Tierra",
-            "Elite Four Bruno Rematch"
+            "Cooltrainer Tierra"
         ],
         "rain": [
             // Route 120
             "Cooltrainer Umi",
             "Swimmer-F Aqua",
 	        "Cool Couple Tama & Shi",
-            "Elite Four Lorelei Rematch"
         ],
         "sand": [
             "Pokemon Ranger Katelyn",
