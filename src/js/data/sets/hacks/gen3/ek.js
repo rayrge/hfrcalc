@@ -11371,7 +11371,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Swords Dance",
 				"Megahorn",
 				"Ancientpower",
-				"Superpower"
+				"Superpower",
 			],
 			"nature": "Gentle"
 		},
