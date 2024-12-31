@@ -5837,7 +5837,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Lonely"
 		}
 	},
-	"Deoxys": {
+	"Deoxys-Attack": {
 		"Elite Four Agatha Rematch": {
 			"ability": "Pressure",
 			"item": "Lum Berry",

@@ -454,7 +454,7 @@ var CUSTOMHACKFLAGS_EK = {
             // Water Labyrinth Umi
             "Cooltrainer Umi",
 
-            // Resort Goregous Deoxys
+            // Resort Goregous Deoxys-Attack
             "Lass Whitney",
 
             // Resort Gorgeous
