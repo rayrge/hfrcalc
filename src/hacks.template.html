@@ -1265,13 +1265,20 @@
                 </div>
             </fieldset>
         </div>
-        <div aria-label="Import team" role="region">
-            <fieldset class="poke-import">
+        <div role="region">
+            <fieldset>
                 <legend align="center">Notes Area (will update later)</legend>
-                <div id="import-1_wrapper" class="dataTables_wrapper no-footer">
-                    <form class="import-team">
-                        <textarea class="import-team-text"></textarea>
+                <div>
+                    <form>
+                        <textarea class="import-team-text" id="notesArea" placeholder="Shade you're trash #SCYTHERISBETTER"></textarea>
+                        
                     </form>
+                    <form>
+                        <button type="button" id="save-notes">Save</button>
+                        <button type="button" id="reset-notes">Reset</button>
+                        <button type="button" id="resetall-notes">Reset All</button>
+                    </form>
+                   
                 </div>
             </fieldset>
         </div>

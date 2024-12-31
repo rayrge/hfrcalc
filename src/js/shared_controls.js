@@ -1,3 +1,5 @@
+const { text } = require("express");
+
 if (!Array.prototype.indexOf) {
 	Array.prototype.indexOf = function (searchElement, fromIndex) { // eslint-disable-line no-extend-native
 		var k;
@@ -1935,6 +1937,10 @@ function getSrcImgPokemon(poke) {
 function getTrainerPokemon(trainerName) {
 	var trueName = trainerName.split("(")[1].replaceAll("*", "").split(")")[0].trim();
 	window.CURRENT_TRAINER = trueName;
+
+	// retrieves notes
+	var textBox = document.getElementById("notesArea");
+	textBox.value = localStorage.getItem(window.CURRENT_TRAINER);
 	if (!partyOrder || !Object.keys(partyOrder).length || !partyOrder[trueName]) {
 		TR_NAMES = getTrainerNames();
 		var matches = [];
@@ -2080,7 +2086,29 @@ function trashPokemon() {
 	$('#box-poke-list')[0].click();
 }
 
+function saveNotes() {
+	var textBox = document.getElementById("notesArea");
+	localStorage.setItem(window.CURRENT_TRAINER, textBox.value);
+}
+
+function resetNotes() {
+	var textBox = document.getElementById("notesArea");
+	localStorage.setItem(window.CURRENT_TRAINER, "");
+	textBox.value = "";
+}
+
+function resetAllNotes() {
+	var textBox = document.getElementById("notesArea");
+	for (i in trainerNames) {
+		localStorage.setItem(trainerNames[i], "");
+	}
+	textBox.value = "";
+}
+
 function nextTrainer() {
+	
+	
+
 	if (trainerNames.includes(window.CURRENT_TRAINER)) {
 		var index = trainerNames.indexOf(window.CURRENT_TRAINER);
 		if (index + 1 !== trainerNames.length) {
@@ -2097,6 +2125,7 @@ function nextTrainer() {
 			$(".opposing .select2-chosen").text(setName);
 		}
 	}
+
 }
 
 function previousTrainer() {
@@ -2130,6 +2159,7 @@ function resetTrainer() {
 	$(".opposing").val(setName);
 	$(".opposing").change();
 	$(".opposing .select2-chosen").text(setName);
+
 }
 
 function allowDrop(ev) {
@@ -2249,6 +2279,9 @@ $(document).ready(function () {
 	$('#cc-spe-border').change(speedBorderSetsChange);
 	$('#cc-ohko-color').change(refreshColorCode);
 	$('#cc-advanced').change(colorCodeUpdate);
+	$('#save-notes').click(saveNotes);
+	$('#reset-notes').click(resetNotes);
+	$('#resetall-notes').click(resetAllNotes);
 	$('#cc-spe-border')[0].checked=true;
 	$('#cc-ohko-color')[0].checked=true;
 
@@ -2381,3 +2414,6 @@ function updateGameOptions() {
 		window.history.replaceState({}, document.title, window.location.pathname + (params.length ? '?' + params : ''));
 	}
 }
+
+
+// idk where the other stuff that runs at program start is so im slapping it here
