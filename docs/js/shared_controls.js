@@ -2098,6 +2098,10 @@ function resetNotes() {
 }
 
 function resetAllNotes() {
+	var yes = confirm(`Do you really want to reset ALL notes?`);
+	if (!yes) {
+		return;
+	}
 	var textBox = document.getElementById("notesArea");
 	for (i in trainerNames) {
 		localStorage.setItem(trainerNames[i], "");
