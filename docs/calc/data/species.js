@@ -2710,7 +2710,1166 @@ var ADV_PATCH = {
     }
 };
 var ADV = (0, util_1.extend)(true, {}, GSC, ADV_PATCH);
-var EK_PATCH = {};
+var EK_PATCH = {
+    Bulbasaur: {
+        bs: { hp: 45, at: 49, df: 49, sa: 65, sd: 65, sp: 50 }
+    },
+    Ivysaur: {
+        bs: { hp: 60, at: 62, df: 63, sa: 80, sd: 80, sp: 60 }
+    },
+    Venusaur: {
+        bs: { hp: 80, at: 82, df: 83, sa: 100, sd: 100, sp: 80 }
+    },
+    Charmander: {
+        bs: { hp: 39, at: 52, df: 43, sa: 60, sd: 50, sp: 65 }
+    },
+    Charmeleon: {
+        bs: { hp: 58, at: 64, df: 58, sa: 80, sd: 65, sp: 80 }
+    },
+    Charizard: {
+        bs: { hp: 78, at: 84, df: 78, sa: 109, sd: 85, sp: 100 }
+    },
+    Squirtle: {
+        bs: { hp: 44, at: 48, df: 65, sa: 50, sd: 64, sp: 43 }
+    },
+    Wartortle: {
+        bs: { hp: 59, at: 63, df: 80, sa: 65, sd: 80, sp: 58 }
+    },
+    Blastoise: {
+        bs: { hp: 79, at: 83, df: 100, sa: 85, sd: 105, sp: 78 }
+    },
+    Caterpie: {
+        bs: { hp: 45, at: 30, df: 35, sa: 20, sd: 20, sp: 45 }
+    },
+    Metapod: {
+        bs: { hp: 50, at: 20, df: 55, sa: 25, sd: 25, sp: 30 }
+    },
+    Butterfree: {
+        bs: { hp: 60, at: 45, df: 50, sa: 90, sd: 80, sp: 70 }
+    },
+    Weedle: {
+        bs: { hp: 40, at: 35, df: 30, sa: 20, sd: 20, sp: 50 }
+    },
+    Kakuna: {
+        bs: { hp: 45, at: 25, df: 50, sa: 25, sd: 25, sp: 35 }
+    },
+    Beedrill: {
+        bs: { hp: 65, at: 80, df: 40, sa: 45, sd: 80, sp: 75 }
+    },
+    Pidgey: {
+        bs: { hp: 40, at: 45, df: 40, sa: 35, sd: 35, sp: 56 }
+    },
+    Pidgeotto: {
+        bs: { hp: 63, at: 60, df: 55, sa: 50, sd: 50, sp: 71 }
+    },
+    Pidgeot: {
+        bs: { hp: 83, at: 80, df: 76, sa: 70, sd: 71, sp: 100 }
+    },
+    Rattata: {
+        bs: { hp: 30, at: 56, df: 35, sa: 25, sd: 35, sp: 72 }
+    },
+    Raticate: {
+        bs: { hp: 55, at: 81, df: 60, sa: 50, sd: 70, sp: 97 }
+    },
+    Spearow: {
+        bs: { hp: 40, at: 60, df: 30, sa: 31, sd: 31, sp: 70 }
+    },
+    Fearow: {
+        bs: { hp: 85, at: 120, df: 70, sa: 50, sd: 50, sp: 100 }
+    },
+    Ekans: {
+        bs: { hp: 35, at: 60, df: 44, sa: 40, sd: 54, sp: 55 }
+    },
+    Arbok: {
+        bs: { hp: 60, at: 95, df: 69, sa: 65, sd: 79, sp: 80 }
+    },
+    Pikachu: {
+        bs: { hp: 35, at: 55, df: 30, sa: 50, sd: 40, sp: 90 }
+    },
+    Raichu: {
+        bs: { hp: 60, at: 90, df: 55, sa: 90, sd: 80, sp: 110 }
+    },
+    Sandshrew: {
+        bs: { hp: 50, at: 75, df: 85, sa: 20, sd: 30, sp: 40 }
+    },
+    Sandslash: {
+        bs: { hp: 75, at: 100, df: 110, sa: 45, sd: 55, sp: 65 }
+    },
+    'Nidoran-F': {
+        bs: { hp: 55, at: 47, df: 52, sa: 40, sd: 40, sp: 41 }
+    },
+    Nidorina: {
+        bs: { hp: 70, at: 62, df: 67, sa: 55, sd: 55, sp: 56 }
+    },
+    Nidoqueen: {
+        bs: { hp: 90, at: 82, df: 87, sa: 75, sd: 85, sp: 76 }
+    },
+    'Nidoran-M': {
+        bs: { hp: 46, at: 57, df: 40, sa: 40, sd: 40, sp: 50 }
+    },
+    Nidorino: {
+        bs: { hp: 61, at: 72, df: 57, sa: 55, sd: 55, sp: 65 }
+    },
+    Nidoking: {
+        bs: { hp: 81, at: 92, df: 77, sa: 85, sd: 75, sp: 85 }
+    },
+    Clefairy: {
+        bs: { hp: 70, at: 45, df: 48, sa: 60, sd: 65, sp: 35 }
+    },
+    Clefable: {
+        bs: { hp: 95, at: 70, df: 73, sa: 85, sd: 90, sp: 60 }
+    },
+    Vulpix: {
+        bs: { hp: 38, at: 41, df: 40, sa: 50, sd: 65, sp: 65 }
+    },
+    Ninetales: {
+        bs: { hp: 73, at: 76, df: 75, sa: 100, sd: 100, sp: 100 }
+    },
+    Jigglypuff: {
+        bs: { hp: 115, at: 45, df: 20, sa: 45, sd: 25, sp: 20 }
+    },
+    Wigglytuff: {
+        bs: { hp: 140, at: 70, df: 45, sa: 75, sd: 50, sp: 45 }
+    },
+    Zubat: {
+        bs: { hp: 40, at: 45, df: 35, sa: 30, sd: 40, sp: 55 }
+    },
+    Golbat: {
+        bs: { hp: 75, at: 80, df: 70, sa: 65, sd: 75, sp: 90 }
+    },
+    Oddish: {
+        bs: { hp: 45, at: 50, df: 55, sa: 75, sd: 65, sp: 30 }
+    },
+    Gloom: {
+        bs: { hp: 60, at: 65, df: 70, sa: 85, sd: 75, sp: 40 }
+    },
+    Vileplume: {
+        bs: { hp: 75, at: 80, df: 85, sa: 100, sd: 90, sp: 50 }
+    },
+    Paras: {
+        bs: { hp: 35, at: 70, df: 55, sa: 45, sd: 55, sp: 25 }
+    },
+    Parasect: {
+        bs: { hp: 70, at: 110, df: 90, sa: 65, sd: 90, sp: 55 }
+    },
+    Venonat: {
+        bs: { hp: 60, at: 55, df: 50, sa: 40, sd: 55, sp: 45 }
+    },
+    Venomoth: {
+        bs: { hp: 70, at: 65, df: 60, sa: 90, sd: 75, sp: 90 }
+    },
+    Diglett: {
+        bs: { hp: 10, at: 60, df: 25, sa: 35, sd: 45, sp: 95 }
+    },
+    Dugtrio: {
+        bs: { hp: 35, at: 100, df: 50, sa: 50, sd: 70, sp: 120 }
+    },
+    Meowth: {
+        bs: { hp: 40, at: 45, df: 35, sa: 40, sd: 40, sp: 90 }
+    },
+    Persian: {
+        bs: { hp: 65, at: 70, df: 60, sa: 65, sd: 65, sp: 115 }
+    },
+    Psyduck: {
+        bs: { hp: 50, at: 52, df: 48, sa: 65, sd: 50, sp: 55 }
+    },
+    Golduck: {
+        bs: { hp: 80, at: 82, df: 78, sa: 105, sd: 80, sp: 85 }
+    },
+    Mankey: {
+        bs: { hp: 40, at: 80, df: 35, sa: 35, sd: 45, sp: 70 }
+    },
+    Primeape: {
+        bs: { hp: 65, at: 105, df: 60, sa: 60, sd: 70, sp: 95 }
+    },
+    Growlithe: {
+        bs: { hp: 55, at: 70, df: 45, sa: 70, sd: 50, sp: 60 }
+    },
+    Arcanine: {
+        bs: { hp: 90, at: 110, df: 80, sa: 100, sd: 80, sp: 95 }
+    },
+    Poliwag: {
+        bs: { hp: 40, at: 50, df: 40, sa: 40, sd: 40, sp: 90 }
+    },
+    Poliwhirl: {
+        bs: { hp: 65, at: 65, df: 65, sa: 50, sd: 50, sp: 90 }
+    },
+    Poliwrath: {
+        bs: { hp: 90, at: 90, df: 95, sa: 70, sd: 90, sp: 70 }
+    },
+    Abra: {
+        bs: { hp: 25, at: 20, df: 15, sa: 105, sd: 55, sp: 90 }
+    },
+    Kadabra: {
+        bs: { hp: 40, at: 35, df: 30, sa: 120, sd: 70, sp: 105 }
+    },
+    Alakazam: {
+        bs: { hp: 55, at: 50, df: 45, sa: 135, sd: 85, sp: 120 }
+    },
+    Machop: {
+        bs: { hp: 70, at: 80, df: 50, sa: 35, sd: 35, sp: 35 }
+    },
+    Machoke: {
+        bs: { hp: 80, at: 100, df: 70, sa: 50, sd: 60, sp: 45 }
+    },
+    Machamp: {
+        bs: { hp: 100, at: 130, df: 85, sa: 65, sd: 85, sp: 55 }
+    },
+    Bellsprout: {
+        bs: { hp: 50, at: 75, df: 35, sa: 70, sd: 30, sp: 40 }
+    },
+    Weepinbell: {
+        bs: { hp: 65, at: 90, df: 50, sa: 85, sd: 45, sp: 55 }
+    },
+    Victreebel: {
+        bs: { hp: 80, at: 105, df: 65, sa: 100, sd: 60, sp: 70 }
+    },
+    Tentacool: {
+        bs: { hp: 40, at: 40, df: 35, sa: 50, sd: 100, sp: 70 }
+    },
+    Tentacruel: {
+        bs: { hp: 80, at: 70, df: 65, sa: 100, sd: 120, sp: 100 }
+    },
+    Geodude: {
+        bs: { hp: 40, at: 80, df: 100, sa: 30, sd: 30, sp: 20 }
+    },
+    Graveler: {
+        bs: { hp: 55, at: 95, df: 115, sa: 45, sd: 45, sp: 35 }
+    },
+    Golem: {
+        bs: { hp: 80, at: 110, df: 130, sa: 55, sd: 65, sp: 45 }
+    },
+    Ponyta: {
+        bs: { hp: 50, at: 85, df: 55, sa: 65, sd: 65, sp: 90 }
+    },
+    Rapidash: {
+        bs: { hp: 65, at: 100, df: 70, sa: 80, sd: 80, sp: 105 }
+    },
+    Slowpoke: {
+        bs: { hp: 90, at: 65, df: 65, sa: 40, sd: 40, sp: 15 }
+    },
+    Slowbro: {
+        bs: { hp: 95, at: 75, df: 110, sa: 100, sd: 80, sp: 30 }
+    },
+    Magnemite: {
+        bs: { hp: 25, at: 35, df: 70, sa: 95, sd: 55, sp: 45 }
+    },
+    Magneton: {
+        bs: { hp: 65, at: 60, df: 100, sa: 120, sd: 70, sp: 70 }
+    },
+    'Farfetch\u2019d': {
+        bs: { hp: 52, at: 65, df: 55, sa: 58, sd: 62, sp: 60 }
+    },
+    Doduo: {
+        bs: { hp: 35, at: 85, df: 45, sa: 35, sd: 35, sp: 75 }
+    },
+    Dodrio: {
+        bs: { hp: 60, at: 110, df: 70, sa: 60, sd: 60, sp: 110 }
+    },
+    Seel: {
+        bs: { hp: 65, at: 45, df: 55, sa: 45, sd: 70, sp: 45 }
+    },
+    Dewgong: {
+        bs: { hp: 90, at: 70, df: 80, sa: 95, sd: 95, sp: 70 }
+    },
+    Grimer: {
+        bs: { hp: 80, at: 80, df: 50, sa: 40, sd: 50, sp: 25 }
+    },
+    Muk: {
+        bs: { hp: 105, at: 105, df: 75, sa: 65, sd: 100, sp: 50 }
+    },
+    Shellder: {
+        bs: { hp: 30, at: 65, df: 115, sa: 55, sd: 25, sp: 40 }
+    },
+    Cloyster: {
+        bs: { hp: 50, at: 95, df: 180, sa: 85, sd: 70, sp: 70 }
+    },
+    Gastly: {
+        bs: { hp: 30, at: 35, df: 30, sa: 100, sd: 35, sp: 80 }
+    },
+    Haunter: {
+        bs: { hp: 45, at: 50, df: 45, sa: 115, sd: 55, sp: 95 }
+    },
+    Gengar: {
+        bs: { hp: 60, at: 80, df: 60, sa: 130, sd: 75, sp: 110 }
+    },
+    Onix: {
+        bs: { hp: 35, at: 45, df: 160, sa: 30, sd: 45, sp: 70 }
+    },
+    Drowzee: {
+        bs: { hp: 65, at: 48, df: 45, sa: 60, sd: 90, sp: 42 }
+    },
+    Hypno: {
+        bs: { hp: 85, at: 73, df: 70, sa: 115, sd: 115, sp: 67 }
+    },
+    Krabby: {
+        bs: { hp: 30, at: 105, df: 90, sa: 25, sd: 25, sp: 50 }
+    },
+    Kingler: {
+        bs: { hp: 55, at: 130, df: 115, sa: 50, sd: 50, sp: 75 }
+    },
+    Voltorb: {
+        bs: { hp: 40, at: 30, df: 50, sa: 55, sd: 55, sp: 100 }
+    },
+    Electrode: {
+        bs: { hp: 60, at: 65, df: 70, sa: 80, sd: 80, sp: 140 }
+    },
+    Exeggcute: {
+        bs: { hp: 60, at: 40, df: 80, sa: 60, sd: 45, sp: 40 }
+    },
+    Exeggutor: {
+        bs: { hp: 95, at: 95, df: 85, sa: 125, sd: 85, sp: 55 }
+    },
+    Cubone: {
+        bs: { hp: 50, at: 50, df: 95, sa: 40, sd: 50, sp: 35 }
+    },
+    Marowak: {
+        bs: { hp: 60, at: 80, df: 110, sa: 50, sd: 80, sp: 45 }
+    },
+    Hitmonlee: {
+        bs: { hp: 50, at: 120, df: 53, sa: 35, sd: 110, sp: 87 }
+    },
+    Hitmonchan: {
+        bs: { hp: 50, at: 105, df: 79, sa: 35, sd: 110, sp: 76 }
+    },
+    Lickitung: {
+        bs: { hp: 90, at: 55, df: 75, sa: 60, sd: 75, sp: 30 }
+    },
+    Koffing: {
+        bs: { hp: 40, at: 65, df: 95, sa: 60, sd: 45, sp: 35 }
+    },
+    Weezing: {
+        bs: { hp: 65, at: 90, df: 120, sa: 85, sd: 70, sp: 60 }
+    },
+    Rhyhorn: {
+        bs: { hp: 80, at: 85, df: 95, sa: 30, sd: 30, sp: 25 }
+    },
+    Rhydon: {
+        bs: { hp: 105, at: 130, df: 120, sa: 45, sd: 45, sp: 40 }
+    },
+    Chansey: {
+        bs: { hp: 250, at: 5, df: 15, sa: 105, sd: 105, sp: 45 }
+    },
+    Tangela: {
+        bs: { hp: 80, at: 80, df: 115, sa: 100, sd: 100, sp: 60 }
+    },
+    Kangaskhan: {
+        bs: { hp: 105, at: 95, df: 80, sa: 40, sd: 80, sp: 90 }
+    },
+    Horsea: {
+        bs: { hp: 30, at: 40, df: 70, sa: 70, sd: 25, sp: 60 }
+    },
+    Seadra: {
+        bs: { hp: 55, at: 65, df: 95, sa: 95, sd: 45, sp: 85 }
+    },
+    Goldeen: {
+        bs: { hp: 45, at: 67, df: 60, sa: 35, sd: 50, sp: 63 }
+    },
+    Seaking: {
+        bs: { hp: 80, at: 92, df: 65, sa: 65, sd: 80, sp: 68 }
+    },
+    Staryu: {
+        bs: { hp: 30, at: 45, df: 55, sa: 70, sd: 55, sp: 85 }
+    },
+    Starmie: {
+        bs: { hp: 60, at: 75, df: 85, sa: 100, sd: 100, sp: 115 }
+    },
+    'Mr. Mime': {
+        bs: { hp: 40, at: 45, df: 65, sa: 100, sd: 120, sp: 90 }
+    },
+    Scyther: {
+        bs: { hp: 70, at: 110, df: 80, sa: 55, sd: 80, sp: 105 }
+    },
+    Jynx: {
+        bs: { hp: 65, at: 50, df: 35, sa: 115, sd: 95, sp: 95 }
+    },
+    Electabuzz: {
+        bs: { hp: 70, at: 83, df: 62, sa: 95, sd: 85, sp: 105 }
+    },
+    Magmar: {
+        bs: { hp: 65, at: 95, df: 57, sa: 100, sd: 85, sp: 98 }
+    },
+    Pinsir: {
+        bs: { hp: 65, at: 125, df: 100, sa: 55, sd: 70, sp: 85 }
+    },
+    Tauros: {
+        bs: { hp: 75, at: 100, df: 95, sa: 40, sd: 70, sp: 110 }
+    },
+    Magikarp: {
+        bs: { hp: 20, at: 10, df: 55, sa: 15, sd: 20, sp: 80 }
+    },
+    Gyarados: {
+        bs: { hp: 95, at: 125, df: 79, sa: 70, sd: 100, sp: 81 }
+    },
+    Lapras: {
+        bs: { hp: 130, at: 85, df: 80, sa: 95, sd: 95, sp: 60 }
+    },
+    Ditto: {
+        bs: { hp: 100, at: 100, df: 100, sa: 100, sd: 100, sp: 100 }
+    },
+    Eevee: {
+        bs: { hp: 55, at: 55, df: 50, sa: 45, sd: 65, sp: 55 }
+    },
+    Vaporeon: {
+        bs: { hp: 130, at: 65, df: 60, sa: 110, sd: 95, sp: 65 }
+    },
+    Jolteon: {
+        bs: { hp: 65, at: 65, df: 60, sa: 110, sd: 95, sp: 130 }
+    },
+    Flareon: {
+        bs: { hp: 65, at: 130, df: 60, sa: 95, sd: 110, sp: 65 }
+    },
+    Porygon: {
+        bs: { hp: 65, at: 60, df: 70, sa: 85, sd: 75, sp: 40 }
+    },
+    Omanyte: {
+        bs: { hp: 35, at: 40, df: 100, sa: 90, sd: 55, sp: 35 }
+    },
+    Omastar: {
+        bs: { hp: 70, at: 60, df: 125, sa: 115, sd: 70, sp: 55 }
+    },
+    Kabuto: {
+        bs: { hp: 30, at: 80, df: 90, sa: 55, sd: 45, sp: 55 }
+    },
+    Kabutops: {
+        bs: { hp: 60, at: 115, df: 105, sa: 65, sd: 70, sp: 80 }
+    },
+    Aerodactyl: {
+        bs: { hp: 80, at: 105, df: 65, sa: 60, sd: 75, sp: 130 }
+    },
+    Snorlax: {
+        bs: { hp: 160, at: 110, df: 65, sa: 65, sd: 110, sp: 30 }
+    },
+    Articuno: {
+        bs: { hp: 95, at: 85, df: 100, sa: 110, sd: 125, sp: 85 }
+    },
+    Zapdos: {
+        bs: { hp: 95, at: 95, df: 90, sa: 125, sd: 90, sp: 105 }
+    },
+    Moltres: {
+        bs: { hp: 90, at: 110, df: 85, sa: 125, sd: 90, sp: 100 }
+    },
+    Dratini: {
+        bs: { hp: 41, at: 64, df: 45, sa: 50, sd: 50, sp: 50 }
+    },
+    Dragonair: {
+        bs: { hp: 61, at: 84, df: 65, sa: 70, sd: 70, sp: 70 }
+    },
+    Dragonite: {
+        bs: { hp: 91, at: 134, df: 95, sa: 100, sd: 100, sp: 80 }
+    },
+    Mewtwo: {
+        bs: { hp: 106, at: 120, df: 90, sa: 160, sd: 90, sp: 130 }
+    },
+    Mew: {
+        bs: { hp: 100, at: 100, df: 100, sa: 100, sd: 100, sp: 100 }
+    },
+    Chikorita: {
+        bs: { hp: 45, at: 49, df: 65, sa: 49, sd: 65, sp: 45 }
+    },
+    Bayleef: {
+        bs: { hp: 60, at: 62, df: 80, sa: 63, sd: 80, sp: 60 }
+    },
+    Meganium: {
+        bs: { hp: 80, at: 82, df: 100, sa: 83, sd: 100, sp: 80 }
+    },
+    Cyndaquil: {
+        bs: { hp: 39, at: 52, df: 43, sa: 60, sd: 50, sp: 65 }
+    },
+    Quilava: {
+        bs: { hp: 58, at: 64, df: 58, sa: 80, sd: 65, sp: 80 }
+    },
+    Typhlosion: {
+        bs: { hp: 78, at: 84, df: 78, sa: 109, sd: 85, sp: 100 }
+    },
+    Totodile: {
+        bs: { hp: 50, at: 65, df: 64, sa: 44, sd: 48, sp: 43 }
+    },
+    Croconaw: {
+        bs: { hp: 65, at: 80, df: 80, sa: 59, sd: 63, sp: 58 }
+    },
+    Feraligatr: {
+        bs: { hp: 85, at: 105, df: 100, sa: 79, sd: 83, sp: 78 }
+    },
+    Sentret: {
+        bs: { hp: 35, at: 46, df: 34, sa: 35, sd: 45, sp: 40 }
+    },
+    Furret: {
+        bs: { hp: 85, at: 76, df: 64, sa: 45, sd: 55, sp: 90 }
+    },
+    Hoothoot: {
+        bs: { hp: 60, at: 30, df: 30, sa: 36, sd: 56, sp: 50 }
+    },
+    Noctowl: {
+        bs: { hp: 100, at: 70, df: 50, sa: 76, sd: 96, sp: 70 }
+    },
+    Ledyba: {
+        bs: { hp: 40, at: 20, df: 30, sa: 40, sd: 80, sp: 55 }
+    },
+    Ledian: {
+        bs: { hp: 55, at: 35, df: 50, sa: 55, sd: 110, sp: 85 }
+    },
+    Spinarak: {
+        bs: { hp: 40, at: 60, df: 40, sa: 40, sd: 40, sp: 30 }
+    },
+    Ariados: {
+        bs: { hp: 70, at: 90, df: 70, sa: 60, sd: 60, sp: 40 }
+    },
+    Crobat: {
+        bs: { hp: 85, at: 90, df: 80, sa: 70, sd: 80, sp: 130 }
+    },
+    Chinchou: {
+        bs: { hp: 75, at: 38, df: 38, sa: 56, sd: 56, sp: 67 }
+    },
+    Lanturn: {
+        bs: { hp: 125, at: 58, df: 58, sa: 76, sd: 76, sp: 67 }
+    },
+    Pichu: {
+        bs: { hp: 20, at: 40, df: 15, sa: 35, sd: 35, sp: 60 }
+    },
+    Cleffa: {
+        bs: { hp: 50, at: 25, df: 28, sa: 45, sd: 55, sp: 15 }
+    },
+    Igglybuff: {
+        bs: { hp: 90, at: 30, df: 15, sa: 40, sd: 20, sp: 15 }
+    },
+    Togepi: {
+        bs: { hp: 35, at: 20, df: 65, sa: 40, sd: 65, sp: 20 }
+    },
+    Togetic: {
+        bs: { hp: 60, at: 40, df: 85, sa: 100, sd: 105, sp: 45 }
+    },
+    Natu: {
+        bs: { hp: 40, at: 50, df: 45, sa: 70, sd: 45, sp: 70 }
+    },
+    Xatu: {
+        bs: { hp: 65, at: 75, df: 70, sa: 95, sd: 70, sp: 95 }
+    },
+    Mareep: {
+        bs: { hp: 55, at: 40, df: 40, sa: 65, sd: 45, sp: 35 }
+    },
+    Flaaffy: {
+        bs: { hp: 70, at: 55, df: 65, sa: 80, sd: 60, sp: 45 }
+    },
+    Ampharos: {
+        bs: { hp: 90, at: 75, df: 85, sa: 115, sd: 90, sp: 55 }
+    },
+    Bellossom: {
+        bs: { hp: 75, at: 70, df: 95, sa: 100, sd: 100, sp: 50 }
+    },
+    Marill: {
+        bs: { hp: 70, at: 20, df: 50, sa: 20, sd: 50, sp: 40 }
+    },
+    Azumarill: {
+        bs: { hp: 100, at: 50, df: 80, sa: 50, sd: 80, sp: 50 }
+    },
+    Sudowoodo: {
+        bs: { hp: 70, at: 100, df: 115, sa: 30, sd: 65, sp: 30 }
+    },
+    Politoed: {
+        bs: { hp: 90, at: 65, df: 75, sa: 100, sd: 100, sp: 70 }
+    },
+    Hoppip: {
+        bs: { hp: 35, at: 35, df: 40, sa: 35, sd: 55, sp: 50 }
+    },
+    Skiploom: {
+        bs: { hp: 55, at: 45, df: 50, sa: 45, sd: 65, sp: 80 }
+    },
+    Jumpluff: {
+        bs: { hp: 75, at: 55, df: 70, sa: 55, sd: 85, sp: 110 }
+    },
+    Aipom: {
+        bs: { hp: 55, at: 70, df: 55, sa: 40, sd: 55, sp: 105 }
+    },
+    Sunkern: {
+        bs: { hp: 30, at: 30, df: 30, sa: 30, sd: 30, sp: 30 }
+    },
+    Sunflora: {
+        bs: { hp: 75, at: 75, df: 55, sa: 105, sd: 85, sp: 30 }
+    },
+    Yanma: {
+        bs: { hp: 65, at: 80, df: 45, sa: 75, sd: 45, sp: 95 }
+    },
+    Wooper: {
+        bs: { hp: 55, at: 45, df: 45, sa: 25, sd: 25, sp: 15 }
+    },
+    Quagsire: {
+        bs: { hp: 105, at: 85, df: 85, sa: 75, sd: 75, sp: 35 }
+    },
+    Espeon: {
+        bs: { hp: 65, at: 65, df: 60, sa: 130, sd: 95, sp: 110 }
+    },
+    Umbreon: {
+        bs: { hp: 95, at: 65, df: 110, sa: 60, sd: 130, sp: 65 }
+    },
+    Murkrow: {
+        bs: { hp: 60, at: 85, df: 42, sa: 85, sd: 42, sp: 91 }
+    },
+    Slowking: {
+        bs: { hp: 95, at: 75, df: 80, sa: 100, sd: 110, sp: 30 }
+    },
+    Misdreavus: {
+        bs: { hp: 60, at: 60, df: 60, sa: 105, sd: 105, sp: 105 }
+    },
+    Unown: {
+        bs: { hp: 166, at: 166, df: 166, sa: 166, sd: 169, sp: 166 }
+    },
+    Wobbuffet: {
+        bs: { hp: 190, at: 35, df: 60, sa: 35, sd: 60, sp: 33 }
+    },
+    Girafarig: {
+        bs: { hp: 70, at: 80, df: 65, sa: 90, sd: 75, sp: 85 }
+    },
+    Pineco: {
+        bs: { hp: 50, at: 65, df: 90, sa: 35, sd: 35, sp: 15 }
+    },
+    Forretress: {
+        bs: { hp: 75, at: 90, df: 140, sa: 60, sd: 60, sp: 40 }
+    },
+    Dunsparce: {
+        bs: { hp: 100, at: 70, df: 75, sa: 65, sd: 75, sp: 45 }
+    },
+    Gligar: {
+        bs: { hp: 85, at: 75, df: 105, sa: 35, sd: 65, sp: 85 }
+    },
+    Steelix: {
+        bs: { hp: 75, at: 85, df: 200, sa: 55, sd: 65, sp: 30 }
+    },
+    Snubbull: {
+        bs: { hp: 60, at: 80, df: 50, sa: 40, sd: 40, sp: 30 }
+    },
+    Granbull: {
+        bs: { hp: 90, at: 120, df: 75, sa: 60, sd: 60, sp: 45 }
+    },
+    Qwilfish: {
+        bs: { hp: 65, at: 95, df: 75, sa: 55, sd: 55, sp: 85 }
+    },
+    Scizor: {
+        bs: { hp: 70, at: 130, df: 100, sa: 55, sd: 80, sp: 65 }
+    },
+    Shuckle: {
+        bs: { hp: 25, at: 10, df: 230, sa: 10, sd: 230, sp: 5 }
+    },
+    Heracross: {
+        bs: { hp: 80, at: 125, df: 75, sa: 40, sd: 95, sp: 85 }
+    },
+    Sneasel: {
+        bs: { hp: 55, at: 115, df: 55, sa: 80, sd: 75, sp: 125 }
+    },
+    Teddiursa: {
+        bs: { hp: 60, at: 85, df: 50, sa: 50, sd: 50, sp: 40 }
+    },
+    Ursaring: {
+        bs: { hp: 90, at: 130, df: 75, sa: 75, sd: 75, sp: 55 }
+    },
+    Slugma: {
+        bs: { hp: 40, at: 40, df: 40, sa: 70, sd: 40, sp: 20 }
+    },
+    Magcargo: {
+        bs: { hp: 50, at: 50, df: 120, sa: 80, sd: 80, sp: 30 }
+    },
+    Swinub: {
+        bs: { hp: 50, at: 50, df: 40, sa: 30, sd: 30, sp: 50 }
+    },
+    Piloswine: {
+        bs: { hp: 100, at: 100, df: 80, sa: 60, sd: 60, sp: 75 }
+    },
+    Corsola: {
+        bs: { hp: 55, at: 55, df: 85, sa: 65, sd: 85, sp: 35 }
+    },
+    Remoraid: {
+        bs: { hp: 35, at: 65, df: 35, sa: 65, sd: 35, sp: 65 }
+    },
+    Octillery: {
+        bs: { hp: 75, at: 115, df: 75, sa: 115, sd: 75, sp: 45 }
+    },
+    Delibird: {
+        bs: { hp: 45, at: 55, df: 45, sa: 65, sd: 45, sp: 75 }
+    },
+    Mantine: {
+        bs: { hp: 85, at: 40, df: 70, sa: 80, sd: 140, sp: 70 }
+    },
+    Skarmory: {
+        bs: { hp: 65, at: 80, df: 140, sa: 40, sd: 70, sp: 70 }
+    },
+    Houndour: {
+        bs: { hp: 45, at: 60, df: 30, sa: 90, sd: 50, sp: 80 }
+    },
+    Houndoom: {
+        bs: { hp: 75, at: 80, df: 50, sa: 130, sd: 80, sp: 110 }
+    },
+    Kingdra: {
+        bs: { hp: 80, at: 110, df: 95, sa: 110, sd: 95, sp: 85 }
+    },
+    Phanpy: {
+        bs: { hp: 90, at: 60, df: 60, sa: 40, sd: 40, sp: 40 }
+    },
+    Donphan: {
+        bs: { hp: 90, at: 120, df: 120, sa: 60, sd: 60, sp: 50 }
+    },
+    Porygon2: {
+        bs: { hp: 85, at: 80, df: 100, sa: 105, sd: 105, sp: 60 }
+    },
+    Stantler: {
+        bs: { hp: 73, at: 95, df: 62, sa: 85, sd: 65, sp: 85 }
+    },
+    Smeargle: {
+        bs: { hp: 60, at: 60, df: 70, sa: 60, sd: 75, sp: 75 }
+    },
+    Tyrogue: {
+        bs: { hp: 35, at: 35, df: 35, sa: 35, sd: 35, sp: 35 }
+    },
+    Hitmontop: {
+        bs: { hp: 50, at: 95, df: 95, sa: 35, sd: 110, sp: 70 }
+    },
+    Smoochum: {
+        bs: { hp: 45, at: 30, df: 15, sa: 85, sd: 65, sp: 65 }
+    },
+    Elekid: {
+        bs: { hp: 45, at: 63, df: 37, sa: 65, sd: 55, sp: 95 }
+    },
+    Magby: {
+        bs: { hp: 45, at: 75, df: 37, sa: 70, sd: 55, sp: 83 }
+    },
+    Miltank: {
+        bs: { hp: 95, at: 80, df: 105, sa: 40, sd: 70, sp: 100 }
+    },
+    Blissey: {
+        bs: { hp: 255, at: 1, df: 20, sa: 135, sd: 135, sp: 54 }
+    },
+    Raikou: {
+        bs: { hp: 90, at: 95, df: 75, sa: 120, sd: 100, sp: 120 }
+    },
+    Entei: {
+        bs: { hp: 115, at: 115, df: 85, sa: 110, sd: 75, sp: 100 }
+    },
+    Suicune: {
+        bs: { hp: 105, at: 75, df: 120, sa: 95, sd: 120, sp: 85 }
+    },
+    Larvitar: {
+        bs: { hp: 50, at: 64, df: 50, sa: 45, sd: 50, sp: 41 }
+    },
+    Pupitar: {
+        bs: { hp: 70, at: 84, df: 70, sa: 65, sd: 70, sp: 51 }
+    },
+    Tyranitar: {
+        bs: { hp: 100, at: 134, df: 110, sa: 95, sd: 100, sp: 61 }
+    },
+    Lugia: {
+        bs: { hp: 106, at: 90, df: 130, sa: 90, sd: 154, sp: 110 }
+    },
+    'Ho-Oh': {
+        bs: { hp: 106, at: 130, df: 90, sa: 110, sd: 154, sp: 90 }
+    },
+    Celebi: {
+        bs: { hp: 100, at: 100, df: 100, sa: 100, sd: 100, sp: 100 }
+    },
+    Treecko: {
+        bs: { hp: 40, at: 45, df: 35, sa: 65, sd: 55, sp: 70 }
+    },
+    Grovyle: {
+        bs: { hp: 50, at: 65, df: 45, sa: 85, sd: 65, sp: 95 }
+    },
+    Sceptile: {
+        bs: { hp: 70, at: 85, df: 65, sa: 105, sd: 85, sp: 120 }
+    },
+    Torchic: {
+        bs: { hp: 45, at: 60, df: 40, sa: 70, sd: 50, sp: 45 }
+    },
+    Combusken: {
+        bs: { hp: 60, at: 85, df: 60, sa: 85, sd: 60, sp: 55 }
+    },
+    Blaziken: {
+        bs: { hp: 80, at: 120, df: 70, sa: 110, sd: 70, sp: 80 }
+    },
+    Mudkip: {
+        bs: { hp: 50, at: 70, df: 50, sa: 50, sd: 50, sp: 40 }
+    },
+    Marshtomp: {
+        bs: { hp: 70, at: 85, df: 70, sa: 60, sd: 70, sp: 50 }
+    },
+    Swampert: {
+        bs: { hp: 100, at: 110, df: 90, sa: 85, sd: 90, sp: 60 }
+    },
+    Poochyena: {
+        bs: { hp: 35, at: 55, df: 35, sa: 30, sd: 30, sp: 35 }
+    },
+    Mightyena: {
+        bs: { hp: 70, at: 90, df: 70, sa: 60, sd: 60, sp: 70 }
+    },
+    Zigzagoon: {
+        bs: { hp: 38, at: 30, df: 41, sa: 30, sd: 41, sp: 60 }
+    },
+    Linoone: {
+        bs: { hp: 78, at: 70, df: 61, sa: 50, sd: 61, sp: 100 }
+    },
+    Wurmple: {
+        bs: { hp: 45, at: 45, df: 35, sa: 20, sd: 30, sp: 20 }
+    },
+    Silcoon: {
+        bs: { hp: 50, at: 35, df: 55, sa: 25, sd: 25, sp: 15 }
+    },
+    Beautifly: {
+        bs: { hp: 60, at: 70, df: 50, sa: 90, sd: 50, sp: 65 }
+    },
+    Cascoon: {
+        bs: { hp: 50, at: 35, df: 55, sa: 25, sd: 25, sp: 15 }
+    },
+    Dustox: {
+        bs: { hp: 60, at: 50, df: 70, sa: 50, sd: 90, sp: 65 }
+    },
+    Lotad: {
+        bs: { hp: 40, at: 30, df: 30, sa: 40, sd: 50, sp: 30 }
+    },
+    Lombre: {
+        bs: { hp: 60, at: 50, df: 50, sa: 60, sd: 70, sp: 50 }
+    },
+    Ludicolo: {
+        bs: { hp: 80, at: 70, df: 70, sa: 90, sd: 100, sp: 70 }
+    },
+    Seedot: {
+        bs: { hp: 40, at: 40, df: 50, sa: 30, sd: 30, sp: 30 }
+    },
+    Nuzleaf: {
+        bs: { hp: 70, at: 70, df: 40, sa: 60, sd: 40, sp: 60 }
+    },
+    Shiftry: {
+        bs: { hp: 90, at: 100, df: 60, sa: 90, sd: 60, sp: 80 }
+    },
+    Nincada: {
+        bs: { hp: 31, at: 45, df: 90, sa: 30, sd: 30, sp: 40 }
+    },
+    Ninjask: {
+        bs: { hp: 61, at: 90, df: 45, sa: 50, sd: 50, sp: 160 }
+    },
+    Shedinja: {
+        bs: { hp: 1, at: 90, df: 45, sa: 30, sd: 30, sp: 40 }
+    },
+    Taillow: {
+        bs: { hp: 40, at: 55, df: 30, sa: 30, sd: 30, sp: 85 }
+    },
+    Swellow: {
+        bs: { hp: 60, at: 85, df: 60, sa: 50, sd: 50, sp: 125 }
+    },
+    Shroomish: {
+        bs: { hp: 60, at: 40, df: 60, sa: 40, sd: 60, sp: 35 }
+    },
+    Breloom: {
+        bs: { hp: 60, at: 130, df: 80, sa: 60, sd: 60, sp: 70 }
+    },
+    Spinda: {
+        bs: { hp: 80, at: 80, df: 80, sa: 80, sd: 80, sp: 80 }
+    },
+    Wingull: {
+        bs: { hp: 40, at: 30, df: 30, sa: 55, sd: 30, sp: 85 }
+    },
+    Pelipper: {
+        bs: { hp: 60, at: 50, df: 100, sa: 85, sd: 70, sp: 65 }
+    },
+    Surskit: {
+        bs: { hp: 40, at: 30, df: 32, sa: 50, sd: 52, sp: 65 }
+    },
+    Masquerain: {
+        bs: { hp: 70, at: 80, df: 62, sa: 80, sd: 82, sp: 80 }
+    },
+    Wailmer: {
+        bs: { hp: 130, at: 70, df: 45, sa: 60, sd: 65, sp: 1 }
+    },
+    Wailord: {
+        bs: { hp: 160, at: 110, df: 64, sa: 110, sd: 110, sp: 1 }
+    },
+    Skitty: {
+        bs: { hp: 50, at: 45, df: 45, sa: 35, sd: 35, sp: 50 }
+    },
+    Delcatty: {
+        bs: { hp: 70, at: 65, df: 65, sa: 55, sd: 55, sp: 70 }
+    },
+    Kecleon: {
+        bs: { hp: 80, at: 90, df: 70, sa: 60, sd: 120, sp: 40 }
+    },
+    Baltoy: {
+        bs: { hp: 40, at: 40, df: 55, sa: 40, sd: 70, sp: 55 }
+    },
+    Claydol: {
+        bs: { hp: 60, at: 70, df: 105, sa: 70, sd: 120, sp: 75 }
+    },
+    Nosepass: {
+        bs: { hp: 30, at: 45, df: 135, sa: 45, sd: 90, sp: 30 }
+    },
+    Torkoal: {
+        bs: { hp: 70, at: 85, df: 140, sa: 85, sd: 70, sp: 20 }
+    },
+    Sableye: {
+        bs: { hp: 100, at: 125, df: 125, sa: 115, sd: 115, sp: 20 }
+    },
+    Barboach: {
+        bs: { hp: 50, at: 48, df: 43, sa: 46, sd: 41, sp: 60 }
+    },
+    Whiscash: {
+        bs: { hp: 110, at: 78, df: 73, sa: 76, sd: 71, sp: 60 }
+    },
+    Luvdisc: {
+        bs: { hp: 43, at: 30, df: 55, sa: 40, sd: 65, sp: 97 }
+    },
+    Corphish: {
+        bs: { hp: 43, at: 80, df: 65, sa: 50, sd: 35, sp: 35 }
+    },
+    Crawdaunt: {
+        bs: { hp: 63, at: 120, df: 85, sa: 90, sd: 55, sp: 55 }
+    },
+    Feebas: {
+        bs: { hp: 20, at: 15, df: 20, sa: 10, sd: 55, sp: 80 }
+    },
+    Milotic: {
+        bs: { hp: 95, at: 60, df: 79, sa: 110, sd: 125, sp: 81 }
+    },
+    Carvanha: {
+        bs: { hp: 45, at: 90, df: 20, sa: 65, sd: 20, sp: 65 }
+    },
+    Sharpedo: {
+        bs: { hp: 70, at: 120, df: 40, sa: 95, sd: 40, sp: 95 }
+    },
+    Trapinch: {
+        bs: { hp: 45, at: 100, df: 45, sa: 45, sd: 45, sp: 10 }
+    },
+    Vibrava: {
+        bs: { hp: 50, at: 70, df: 50, sa: 50, sd: 50, sp: 70 }
+    },
+    Flygon: {
+        bs: { hp: 80, at: 105, df: 80, sa: 80, sd: 80, sp: 100 }
+    },
+    Makuhita: {
+        bs: { hp: 72, at: 60, df: 30, sa: 20, sd: 30, sp: 25 }
+    },
+    Hariyama: {
+        bs: { hp: 144, at: 120, df: 60, sa: 40, sd: 60, sp: 50 }
+    },
+    Electrike: {
+        bs: { hp: 40, at: 45, df: 40, sa: 65, sd: 40, sp: 65 }
+    },
+    Manectric: {
+        bs: { hp: 70, at: 75, df: 60, sa: 105, sd: 60, sp: 105 }
+    },
+    Numel: {
+        bs: { hp: 60, at: 60, df: 40, sa: 65, sd: 45, sp: 35 }
+    },
+    Camerupt: {
+        bs: { hp: 70, at: 100, df: 70, sa: 105, sd: 75, sp: 40 }
+    },
+    Spheal: {
+        bs: { hp: 70, at: 40, df: 50, sa: 55, sd: 50, sp: 25 }
+    },
+    Sealeo: {
+        bs: { hp: 90, at: 60, df: 70, sa: 75, sd: 70, sp: 45 }
+    },
+    Walrein: {
+        bs: { hp: 120, at: 80, df: 90, sa: 95, sd: 90, sp: 65 }
+    },
+    Cacnea: {
+        bs: { hp: 50, at: 85, df: 40, sa: 85, sd: 40, sp: 35 }
+    },
+    Cacturne: {
+        bs: { hp: 70, at: 115, df: 60, sa: 115, sd: 60, sp: 55 }
+    },
+    Snorunt: {
+        bs: { hp: 50, at: 50, df: 50, sa: 50, sd: 50, sp: 50 }
+    },
+    Glalie: {
+        bs: { hp: 80, at: 100, df: 80, sa: 100, sd: 80, sp: 100 }
+    },
+    Lunatone: {
+        bs: { hp: 70, at: 55, df: 65, sa: 95, sd: 85, sp: 70 }
+    },
+    Solrock: {
+        bs: { hp: 70, at: 95, df: 85, sa: 55, sd: 65, sp: 70 }
+    },
+    Azurill: {
+        bs: { hp: 50, at: 20, df: 40, sa: 20, sd: 40, sp: 20 }
+    },
+    Spoink: {
+        bs: { hp: 60, at: 25, df: 35, sa: 70, sd: 80, sp: 60 }
+    },
+    Grumpig: {
+        bs: { hp: 80, at: 45, df: 65, sa: 90, sd: 110, sp: 80 }
+    },
+    Plusle: {
+        bs: { hp: 60, at: 50, df: 40, sa: 85, sd: 75, sp: 95 }
+    },
+    Minun: {
+        bs: { hp: 60, at: 40, df: 50, sa: 75, sd: 85, sp: 95 }
+    },
+    Mawile: {
+        bs: { hp: 50, at: 85, df: 85, sa: 55, sd: 55, sp: 50 }
+    },
+    Meditite: {
+        bs: { hp: 30, at: 40, df: 55, sa: 40, sd: 55, sp: 60 }
+    },
+    Medicham: {
+        bs: { hp: 60, at: 60, df: 75, sa: 60, sd: 75, sp: 80 }
+    },
+    Swablu: {
+        bs: { hp: 45, at: 40, df: 60, sa: 40, sd: 75, sp: 50 }
+    },
+    Altaria: {
+        bs: { hp: 75, at: 70, df: 90, sa: 70, sd: 105, sp: 80 }
+    },
+    Wynaut: {
+        bs: { hp: 95, at: 23, df: 48, sa: 23, sd: 48, sp: 23 }
+    },
+    Duskull: {
+        bs: { hp: 20, at: 40, df: 90, sa: 30, sd: 90, sp: 25 }
+    },
+    Dusclops: {
+        bs: { hp: 90, at: 105, df: 130, sa: 60, sd: 130, sp: 25 }
+    },
+    Roselia: {
+        bs: { hp: 50, at: 60, df: 45, sa: 100, sd: 80, sp: 65 }
+    },
+    Slakoth: {
+        bs: { hp: 60, at: 60, df: 60, sa: 35, sd: 35, sp: 30 }
+    },
+    Vigoroth: {
+        bs: { hp: 80, at: 80, df: 80, sa: 55, sd: 55, sp: 90 }
+    },
+    Slaking: {
+        bs: { hp: 150, at: 160, df: 100, sa: 95, sd: 65, sp: 100 }
+    },
+    Gulpin: {
+        bs: { hp: 70, at: 43, df: 53, sa: 43, sd: 53, sp: 40 }
+    },
+    Swalot: {
+        bs: { hp: 100, at: 73, df: 83, sa: 73, sd: 83, sp: 55 }
+    },
+    Tropius: {
+        bs: { hp: 99, at: 68, df: 83, sa: 72, sd: 87, sp: 51 }
+    },
+    Whismur: {
+        bs: { hp: 64, at: 51, df: 23, sa: 51, sd: 23, sp: 28 }
+    },
+    Loudred: {
+        bs: { hp: 84, at: 71, df: 43, sa: 71, sd: 43, sp: 48 }
+    },
+    Exploud: {
+        bs: { hp: 104, at: 91, df: 63, sa: 91, sd: 63, sp: 68 }
+    },
+    Clamperl: {
+        bs: { hp: 35, at: 64, df: 85, sa: 74, sd: 55, sp: 32 }
+    },
+    Huntail: {
+        bs: { hp: 55, at: 104, df: 105, sa: 94, sd: 75, sp: 52 }
+    },
+    Gorebyss: {
+        bs: { hp: 55, at: 84, df: 105, sa: 114, sd: 75, sp: 52 }
+    },
+    Absol: {
+        bs: { hp: 70, at: 130, df: 60, sa: 85, sd: 70, sp: 85 }
+    },
+    Shuppet: {
+        bs: { hp: 44, at: 75, df: 35, sa: 63, sd: 33, sp: 45 }
+    },
+    Banette: {
+        bs: { hp: 64, at: 115, df: 65, sa: 83, sd: 63, sp: 65 }
+    },
+    Seviper: {
+        bs: { hp: 73, at: 100, df: 60, sa: 100, sd: 60, sp: 65 }
+    },
+    Zangoose: {
+        bs: { hp: 73, at: 115, df: 60, sa: 60, sd: 60, sp: 90 }
+    },
+    Relicanth: {
+        bs: { hp: 100, at: 90, df: 130, sa: 45, sd: 65, sp: 55 }
+    },
+    Aron: {
+        bs: { hp: 50, at: 70, df: 100, sa: 40, sd: 40, sp: 30 }
+    },
+    Lairon: {
+        bs: { hp: 60, at: 90, df: 140, sa: 50, sd: 50, sp: 40 }
+    },
+    Aggron: {
+        bs: { hp: 70, at: 110, df: 180, sa: 60, sd: 60, sp: 50 }
+    },
+    Castform: {
+        bs: { hp: 75, at: 110, df: 75, sa: 110, sd: 75, sp: 100 }
+    },
+    Volbeat: {
+        bs: { hp: 65, at: 73, df: 75, sa: 47, sd: 85, sp: 85 }
+    },
+    Illumise: {
+        bs: { hp: 65, at: 47, df: 75, sa: 73, sd: 85, sp: 85 }
+    },
+    Lileep: {
+        bs: { hp: 66, at: 41, df: 77, sa: 61, sd: 87, sp: 23 }
+    },
+    Cradily: {
+        bs: { hp: 86, at: 81, df: 97, sa: 81, sd: 107, sp: 43 }
+    },
+    Anorith: {
+        bs: { hp: 45, at: 95, df: 50, sa: 40, sd: 50, sp: 75 }
+    },
+    Armaldo: {
+        bs: { hp: 75, at: 125, df: 100, sa: 70, sd: 80, sp: 45 }
+    },
+    Ralts: {
+        bs: { hp: 28, at: 25, df: 25, sa: 45, sd: 35, sp: 40 }
+    },
+    Kirlia: {
+        bs: { hp: 38, at: 35, df: 35, sa: 65, sd: 55, sp: 50 }
+    },
+    Gardevoir: {
+        bs: { hp: 68, at: 65, df: 65, sa: 125, sd: 115, sp: 85 }
+    },
+    Bagon: {
+        bs: { hp: 45, at: 75, df: 60, sa: 50, sd: 30, sp: 50 }
+    },
+    Shelgon: {
+        bs: { hp: 65, at: 95, df: 100, sa: 60, sd: 50, sp: 50 }
+    },
+    Salamence: {
+        bs: { hp: 95, at: 135, df: 80, sa: 110, sd: 80, sp: 100 }
+    },
+    Beldum: {
+        bs: { hp: 40, at: 55, df: 80, sa: 35, sd: 60, sp: 30 }
+    },
+    Metang: {
+        bs: { hp: 60, at: 75, df: 100, sa: 55, sd: 80, sp: 50 }
+    },
+    Metagross: {
+        bs: { hp: 80, at: 135, df: 130, sa: 95, sd: 90, sp: 70 }
+    },
+    Regirock: {
+        bs: { hp: 80, at: 120, df: 200, sa: 50, sd: 100, sp: 50 }
+    },
+    Regice: {
+        bs: { hp: 80, at: 50, df: 100, sa: 120, sd: 200, sp: 50 }
+    },
+    Registeel: {
+        bs: { hp: 80, at: 85, df: 150, sa: 85, sd: 150, sp: 50 }
+    },
+    Kyogre: {
+        bs: { hp: 100, at: 100, df: 90, sa: 150, sd: 140, sp: 90 }
+    },
+    Groudon: {
+        bs: { hp: 100, at: 150, df: 140, sa: 100, sd: 90, sp: 90 }
+    },
+    Rayquaza: {
+        bs: { hp: 110, at: 150, df: 90, sa: 150, sd: 90, sp: 105 }
+    },
+    Latias: {
+        bs: { hp: 80, at: 80, df: 90, sa: 110, sd: 130, sp: 110 }
+    },
+    Latios: {
+        bs: { hp: 80, at: 90, df: 80, sa: 130, sd: 110, sp: 110 }
+    },
+    Jirachi: {
+        bs: { hp: 100, at: 100, df: 100, sa: 100, sd: 100, sp: 100 }
+    },
+    Deoxys: {
+        bs: { hp: 50, at: 150, df: 50, sa: 150, sd: 50, sp: 150 }
+    },
+    Chimecho: {
+        bs: { hp: 75, at: 50, df: 80, sa: 95, sd: 90, sp: 65 }
+    }
+};
 var EK = (0, util_1.extend)(true, {}, ADV, EK_PATCH);
 var DPP_PATCH = {
     Aipom: { nfe: true },
