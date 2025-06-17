@@ -897,7 +897,7 @@ $(".set-selector").change(function () {
 					"Attract", "Counter", "Destiny Bond", "Focus Punch", "Mirror Coat",
 					"Sleep Powder", "Hypnosis", "Lovely Kiss", "Spore",
 					"Self-Destruct", "Explosion",
-					"Drill Run", "X-Scissors", "Cross Chop", "Dragon Claw",
+					"Drill Run", "X-Scissor", "Cross Chop", "Dragon Claw",
 					"Confuse Ray", "Teeter Dance",
 					"Ancientpower", "Silver Wind", "Howl"
 				];

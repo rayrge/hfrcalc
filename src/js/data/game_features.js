@@ -5,7 +5,7 @@ const GAME_FEATURES = {
     "Crystal": {},
     "R/S": {},
     "Emerald": {},
-    "F/R": {},
+    "FR/LG": {},
     "D/P": {},
     "Platinum": {},
     "HG/SS": {},
@@ -19,5 +19,8 @@ const GAME_FEATURES = {
     "BD/SP": {},
     "S/V": {},
     
-    "Emerald Kaizo": {sync: true}
+    "Emerald Kaizo": {
+        sync: true,
+        upload: true
+    }
 };
